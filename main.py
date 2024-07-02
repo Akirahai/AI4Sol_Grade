@@ -18,7 +18,7 @@ def parse_args():
     parser.add_argument('--resume', default=False, action='store_true', help='Resume')
     parser.add_argument('--use-gpu', action='store_true', help='Use GPU')
     parser.add_argument('--model', type=str, default='distilbert/distilbert-base-uncased', help='Model name')
-    parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/Training_Task/result") #Fix to your path to save model
+    parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/result") #Fix to your path to save model
     parser.add_argument('--gpu', type=int, default=1, help='GPU device')
     
     
