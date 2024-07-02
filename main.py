@@ -49,20 +49,20 @@ if __name__== "__main__":
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     
-    def preprocess_function(examples):
-        max_length = 512  # Set the desired maximum length
-        start_prompt = """
-        You are a professional teacher adhering to the Common Core standards, teaching Mathematics to students from Grade 1 to Grade 6. 
-        Your task is to identify the minimum grade level required to answer the given question.
-        
-        Question:
-        """
-        end_prompt = '\n\nGrade classification: '
-        prompts = [start_prompt + question + end_prompt for question in examples["Question"]]
-        return tokenizer(prompts, padding="max_length", truncation=True, max_length=max_length)
-    
     # def preprocess_function(examples):
-    #     return tokenizer(examples["Question"], truncation=True)
+    #     max_length = 512  # Set the desired maximum length
+    #     start_prompt = """
+    #     You are a professional teacher adhering to the Common Core standards, teaching Mathematics to students from Grade 1 to Grade 6. 
+    #     Your task is to identify the minimum grade level required to answer the given question.
+        
+    #     Question:
+    #     """
+    #     end_prompt = '\n\nGrade classification: '
+    #     prompts = [start_prompt + question + end_prompt for question in examples["Question"]]
+    #     return tokenizer(prompts, padding="max_length", truncation=True, max_length=max_length)
+    
+    def preprocess_function(examples):
+        return tokenizer(examples["Question"], truncation=True)
     
     
     # Split data
