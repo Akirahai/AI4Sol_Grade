@@ -49,6 +49,7 @@ if __name__== "__main__":
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     
     def preprocess_function(examples):
+
         start_prompt = """
         You are a professional teacher adhering to the Common Core standards, teaching Mathematics to students from Grade 1 to Grade 6. 
         Your task is to identify the minimum grade level required to answer the given question.
@@ -57,7 +58,7 @@ if __name__== "__main__":
         """
         end_prompt = '\n\nGrade classification: '
         prompts = [start_prompt + question + end_prompt for question in examples["Question"]]
-        return tokenizer(prompts, padding="max_length", truncation=True)
+        return tokenizer(prompts, truncation=True)
     
     # def preprocess_function(examples):
     #     return tokenizer(examples["Question"], truncation=True)
