@@ -34,22 +34,25 @@ import numpy as np
 #     predictions = np.argmax(predictions, axis=1)
 #     return accuracy.compute(predictions=predictions, references=labels) 
 
-def compute_metrics(eval_pred):
+def compute_metrics(eval_pred: EvalPrediction):
     predictions, labels = eval_pred
     
-    # Debugging: Print the shapes of predictions and labels
-    print(f"Predictions shape: {predictions.shape}")
-    print(f"Labels shape: {labels.shape}")
+    # Debugging lines to understand the structure
+    print(f"Predictions type: {type(predictions)}")
+    print(f"Predictions content: {predictions}")
     
+    if isinstance(predictions, tuple):
+        predictions = predictions[0]  # Assuming the first element contains the logits
+    
+    print(f"Extracted Predictions shape: {predictions.shape}")  # Debugging line
+    print(f"Labels shape: {labels.shape}")  # Debugging line
+
     # Ensure predictions is a numpy array
     predictions = np.array(predictions)
-
-    # Check for inhomogeneous shapes and handle accordingly
+    
+    # Check if the predictions array is consistent in shape
     try:
-        # Assuming your predictions are logits or probabilities and you want the class with the highest score
-        if predictions.ndim > 2:
-            # If predictions have more than 2 dimensions, flatten them appropriately
-            predictions = predictions.reshape(predictions.shape[0], -1)
+        # Assuming your predictions are logits or probabilities
         predictions = np.argmax(predictions, axis=1)
     except ValueError as e:
         print(f"ValueError: {e}")
@@ -57,4 +60,5 @@ def compute_metrics(eval_pred):
         print(predictions)
         raise e
 
-    return accuracy.compute(predictions=predictions, references=labels)
+    accuracy = (predictions == labels).mean()
+    return {'accuracy': accuracy}
