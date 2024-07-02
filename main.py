@@ -34,8 +34,16 @@ if __name__== "__main__":
     if args.use_gpu and torch.cuda.is_available():
         device = torch.device(f'cuda:{args.gpu}') # Change to your suitable GPU device
         
-    df = pd.read_csv('data/Grade_data_Train.csv')
-    dataset = Dataset.from_pandas(df)
+    # df = pd.read_csv('data/Grade_data.csv')
+    # dataset = Dataset.from_pandas(df)
+    
+    df_train =pd.read_csv('data/Grade_data_train_set.csv')
+    df_test =pd.read_csv('data/Grade_data_test_set.csv')
+    df_valid =pd.read_csv('data/Grade_data_valid_set.csv')
+    
+    dataset_train = Dataset.from_pandas(df_train)
+    dataset_test = Dataset.from_pandas(df_test)
+    dataset_valid = Dataset.from_pandas(df_valid)
 
     #Login
     if args.model in ['meta-llama/Llama-2-7b-hf', 'meta-llama/Meta-Llama-3-8B-Instruct']:
@@ -44,14 +52,11 @@ if __name__== "__main__":
     
     # Load model
     model_name=args.model
-    # original_model = AutoModelForSeq2SeqLM.from_pretrained(model_name, torch_dtype=torch.bfloat16)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    # tokenizer.pad_token = tokenizer.eos_token
     tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
     model.resize_token_embeddings(len(tokenizer))
-    # model.config.pad_token_id = model.config.eos_token_id
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     
     # def preprocess_function(examples):
@@ -70,19 +75,23 @@ if __name__== "__main__":
         return tokenizer(examples["Question"], truncation=True)
     
     
-    # Split data
-    train_testvalid = dataset.train_test_split(test_size=0.1, seed=args.seed)
+    # # Split data
+    # train_testvalid = dataset.train_test_split(test_size=0.1, seed=args.seed)
     
-    test_valid = train_testvalid['test'].train_test_split(test_size=0.5, seed=args.seed)
+    # test_valid = train_testvalid['test'].train_test_split(test_size=0.5, seed=args.seed)
     
-    train_test_valid_dataset = DatasetDict({
-        'train': train_testvalid['train'],
-        'test': test_valid['test'],
-        'valid': test_valid['train']})
+    # train_test_valid_dataset = DatasetDict({
+    #     'train': train_testvalid['train'],
+    #     'test': test_valid['test'],
+    #     'valid': test_valid['train']})
     
     
     # Tokenize data
-    tokenized_datasets = train_test_valid_dataset.map(preprocess_function, batched=True)
+    # tokenized_datasets = train_test_valid_dataset.map(preprocess_function, batched=True)
+    
+    tokenized_dataset_train = dataset_train.map(preprocess_function, batched=True)
+    tokenized_dataset_test = dataset_test.map(preprocess_function, batched=True)
+    tokenized_dataset_valid = dataset_valid.map(preprocess_function, batched=True)
     
     
     # Training setup
@@ -98,8 +107,8 @@ if __name__== "__main__":
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=tokenized_datasets['train'],
-        eval_dataset=tokenized_datasets['valid'],
+        train_dataset=tokenized_dataset_train,
+        eval_dataset=tokenized_dataset_valid,
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
@@ -121,23 +130,23 @@ if __name__== "__main__":
         print(f"Model saved to {model_output_dir}")
         
         print("Evaluation on test set...")
-        eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['test'])
+        eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_test)
         print(eval_results)
     
     elif args.phase == 'test':
         if args.eval == 'valid':
             print("Evaluation on valid set...")
-            eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['valid'])
+            eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_valid)
             print(eval_results)
             
         elif args.eval == 'test':
             print("Evaluation on test set...")
-            eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['test'])
+            eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_test)
             print(eval_results)
             
         elif args.eval == 'train':
             print("Evaluation on train set...")
-            eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['train'])
+            eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_train)
             print(eval_results)
 
     

@@ -1,0 +1,1695 @@
+Question,Grade applied,KCs applied,Source,label
+"Mr. Johnson’s class has 24 students. 
+ 2_1 There are 18 students in the class who study Spanish. 
+ 2_2 The other students in the class study French. 
+
+In Mr. Johnson’s class, which of the following is the ratio of students who study French to students who study Spanish? 
+ A $$ 1:3 $$ 
+ B $$ 1:4 $$ 
+ C $$ 2:3 $$ 
+ D $$ 3:4 $$ 
+
+",6,6.RP.1,MCAS,3
+"Sean’s height is 1.8 meters. What is Sean’s height in centimeters? 
+ A 0.018 centimeter 
+ B 0.18 centimeter 
+ C 18 centimeters 
+ D 180 centimeters 
+
+",6,6.RP.3,MCAS,3
+"What is the value of this expression when $$ g = 1.5 $$ ? 
+$$ 5g^2 $$ 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",6,6.EE.2,MCAS,3
+"Compute: 
+$$42 \div 7$$ 
+Write your answer in the Answer Box below. 
+Answer Box y2016_grade3_q4_img_1.png 
+",3,3.OA.7,MCAS,0
+"The length and width of a field are shown in the diagram below. 
+y2015_grade4_q21_img_1.png 
+a. {'element_type': 'text-plain', 'element_value': 'What is the perimeter, in feet, of the field? Show or explain how you got your answer.'} 
+b. {'element_type': 'text-plain', 'element_value': 'What is the area, in square feet, of the field? Show or explain how you got your answer.'} 
+Both the length and the width of the field will be increased by 10 feet. 
+c. {'element_type': 'text-plain', 'element_value': 'What will be the new area, in square feet, of the field? Show or explain how you got your answer.'} 
+",4,4.MD.3,MCAS,1
+"Tameca scored 6 points in a basketball game. Leah scored 3 times as many points as Tameca in the basketball game. 
+Which equation shows the number of points Leah scored? 
+ A $$6 \div 3 = 2$$ 
+ B $$6 - 3 = 3$$ 
+ C $$6 + 3 = 9$$ 
+ D $$6 \times 3 = 18$$ 
+
+",4,4.OA.1,MCAS,1
+"Two bands are marching in a parade. 
+ 2_1 There are 32 people marching in the first band. 
+ 2_2 There are 40 people marching in the second band. 
+ 2_3 The same number of people are marching in each row in both bands. 
+
+What is the greatest number of people that could be marching in each row? 
+ A 2 
+ B 4 
+ C 8 
+ D 10 
+
+",6,6.NS.4,MCAS,3
+"Ms. Ashley planned to stay at a hotel that charges $88 per night for a room and $20 per night in fees and taxes. She used this expression to calculate the total cost of staying in the hotel for n nights. 
+$$ 88n + 20n $$ 
+Which of the following expressions is equivalent to the expression that Ms. Ashley used? 
+ A $$ 108n $$ 
+ B $$ 108n^2 $$ 
+ C $$ 108 + n $$ 
+ D $$ 108 + n^2 $$ 
+
+",6,6.EE.4,MCAS,3
+"Conner wrote the equation shown below. 
+$$6 \times 8 = n$$ 
+Which statement about Conner’s equation is true? 
+ A The value of n is 6 less than 8. 
+ B The value of n is 6 divided by 8. 
+ C The value of n is 6 greater than 8. 
+ D The value of n is 6 times as many as 8. 
+
+",4,4.OA.1,MCAS,1
+"Taylor used 1-square-inch pieces to complete a puzzle, as shown. 
+y2018_grade3_q39_img_1.png 
+What is the area, in square inches, of Taylor’s puzzle? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2018_grade3_q39_img_2.png 
+",3,3.MD.6,MCAS,0
+"Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?",3,['3.NBT.A.2'],GSM8K-TRAIN,0
+"Which equation is true? 
+ A $$30,000 \div 10 = 300,000$$ 
+ B $$30,000 \div 100 = 300,000$$ 
+ C $$300,000 \div 10 = 30,000$$ 
+ D $$300,000 \div 100 = 30,000$$ 
+
+",4,4.NBT.1,MCAS,1
+"What is the value of the 7 in 472,582? 
+ A 7 ten thousands 
+ B 7 thousands 
+ C 7 hundreds 
+ D 7 tens 
+
+",4,4.NBT.1,MCAS,1
+"Hunter is using different lengths of wire for a science project. The line plot below shows the length, in meters, of each wire he will use. 
+Length of Wire (in meters) y2015_grade5_q18_img_1.png 
+Which of the following is the total length, in meters, of wire Hunter is using for the project? 
+ A $$\frac{1}{2}$$ 
+ B $$\frac{5}{8}$$ 
+ C $$1\frac{3}{8}$$ 
+ D $$1\frac{7}{8}$$ 
+
+",5,5.MD.2,MCAS,2
+"Lina brought $10.00 to the fair. 
+ 2_1 She spent $2.59 for cotton candy. 
+ 2_2 She spent $3.49 for a toy. 
+
+How much money did Lina have left? 
+ A $3.92 
+ B $4.02 
+ C $4.92 
+ D $5.02 
+
+",5,5.NBT.7,MCAS,2
+"A pet store needs to put 23 birds into birdcages. Each birdcage can hold 4 birds. 
+What is the least number of cages the pet store needs to hold all the birds? 
+ A 7 
+ B 6 
+ C 5 
+ D 4 
+
+",4,4.OA.3,MCAS,1
+"Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?",4,"['4.NF.C.6', '4.NF.B.4.c', '4.MD.A.2']",GSM8K-TRAIN,1
+"Ms. Manning has 138 markers. 
+What is 138 rounded to the nearest ten? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2018_grade3_q3_img_1.png 
+",3,3.NBT.1,MCAS,0
+"A student used the expression shown to solve a problem. 
+$$ 45 \div 9 $$ 
+Which of these could be the problem the student solved? 
+ A Owen had 45 seeds. He gave 9 seeds to Beth. How many seeds does Owen have now? 
+ B Owen had 45 seeds. Beth gave him 9 more seeds. How many seeds does Owen have now? 
+ C Owen put 45 seeds into each pot. He had 9 pots. How many seeds in all did Owen put into pots? 
+ D Owen had 45 seeds to put into pots. He put 9 seeds into each pot. How many pots did Owen put seeds into? 
+
+",3,3.OA.2,MCAS,0
+"A diagram of a car window is shown below. 
+y2016_grade5_q18_img_1.png 
+Which two words best describe the shape of the car window? 
+ A rectangle, rhombus 
+ B trapezoid, rectangle 
+ C rhombus, quadrilateral 
+ D quadrilateral, trapezoid 
+
+",5,5.G.4,MCAS,2
+"The net of a rectangular prism and some of its dimensions are shown in the diagram below. 
+y2015_grade6_q12_img_1.png 
+What is the total surface area, in square centimeters, of the rectangular prism? 
+ A 174 
+ B 258 
+ C 348 
+ D 360 
+
+",6,6.G.4,MCAS,3
+"Jacob wrote the expression shown below. 
+$$\frac{6}{10} + \frac{7}{100}$$ 
+Which of these is equivalent to the expression Jacob wrote? 
+ A $$\frac{6}{10} + \frac{7}{10}$$ 
+ B $$\frac{60}{10} + \frac{7}{100}$$ 
+ C $$\frac{60}{100} + \frac{7}{100}$$ 
+ D $$\frac{60}{100} + \frac{70}{100}$$ 
+
+",4,4.NF.5,MCAS,1
+"Yolanda took a bus to visit her grandmother for a four-day visit. 
+a. {'element_type': 'text+math_expression', 'element_value': 'At the bus station she waited for $$\\frac{3}{4}$$ of an hour until it was time to board the bus. How many minutes did Yolanda wait to board the bus? Show or explain how you got your answer.'} 
+Yolanda brought a CD to listen to on the bus. 
+ 4_1 The CD is 78 minutes long. 
+ 4_2 The bus ride was $$2\frac{1}{2}$$ hours long. 
+
+b. {'element_type': 'text-plain', 'element_value': 'How many minutes longer was the bus ride than the CD? Show or explain how you got your answer.'} 
+c. {'element_type': 'number+text', 'element_value': 'Yolanda wondered how many minutes are in 4 days. What is the total number of minutes in 4 days? Show or explain how you got your answer.'} 
+",5,5.MD.1,MCAS,2
+"Ryan put 24 books on shelves. He put 8 books on each shelf. 
+Which equation can be used to find s, the number of shelves Ryan put books on? 
+ A $$8 \times 24 = s$$ 
+ B $$8 \div 24 = s$$ 
+ C $$s \times 8 = 24$$ 
+ D $$s \div 8 = 24$$ 
+
+",3,3.OA.6,MCAS,0
+"Use the shapes labeled T from your tool kit to answer question 7. 
+Anjani used the shapes labeled T to cover the figure shown below without any gaps or overlaps. 
+y2016_grade3_q7_img_1.png 
+What fraction of the figure does one of the shapes labeled T cover? 
+ A $$\frac{1}{3}$$ 
+ B $$\frac{1}{2}$$ 
+ C $$\frac{2}{3}$$ 
+ D $$\frac{3}{1}$$ 
+
+",3,3.G.2,MCAS,0
+"There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students,how many does each student get?",5,['5.NBT.B.6'],ASDiv,2
+"Nathan had 24 balloons. He gave some of his balloons to 3 friends. He gave each friend 5 balloons. 
+How many balloons does Nathan have now? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2018_grade3_q30_img_1.png 
+",3,3.OA.8,MCAS,0
+"Erin uses $$\frac{2}{8}$$ yard of string to make 1 bracelet. Erin will make 6 bracelets. 
+a. {'element_type': 'text-plain', 'element_value': 'How many yards of string will Erin use to make 6 bracelets? Show or explain how you got your answer.'} 
+Erin uses $$\frac{3}{8}$$ yard of string to make 1 necklace. Erin will make 5 necklaces. 
+b. {'element_type': 'text-plain', 'element_value': 'How many yards of string will Erin use to make 5 necklaces? Show or explain how you got your answer.'} 
+c. {'element_type': 'text-plain', 'element_value': 'The total number of yards of string Erin will use for 6 bracelets and 5 necklaces is between what two whole numbers? Show or explain how you got your answer.'} 
+",4,4.NF.4,MCAS,1
+"Alani earned $45 for 3 hours of baby-sitting. At the same rate, for how many hours would she need to baby-sit to earn $75?",3,['3.OA.A.3'],GSM8K-TRAIN,0
+"The owners of a melon farm recorded the weights of nine melons in a line plot, as shown. 
+Melons y2018_grade5_q14_img_1.png 
+When the owners record the weight of a tenth melon, the difference in weight between the heaviest and the lightest melons is $$ 2 \frac{3}{4} $$ pounds. Which of the following could be the weight of the tenth melon? 
+ A $$ 2 \frac{1}{2} $$ pounds 
+ B $$ 2 \frac{3}{4} $$ pounds 
+ C $$ 7 \frac{1}{2} $$ pounds 
+ D $$ 7 \frac{3}{4} $$ pounds 
+
+",5,5.MD.2,MCAS,2
+"Aiesha made 4 quarts of applesauce. She will put the applesauce in jars that hold $$\frac{1}{3}$$ quart each. Aiesha solved the equation below to find n, the number of jars she needs to hold all the applesauce. 
+$$4 \div \frac{1}{3} = n$$ 
+Which of the following models best represents this equation? 
+y2016_grade5_q9_img_1.png 
+ A y2016_grade5_q9_img_2.png 
+ B y2016_grade5_q9_img_3.png 
+ C y2016_grade5_q9_img_4.png 
+ D y2016_grade5_q9_img_5.png 
+
+",5,5.NF.7,MCAS,2
+"At the beginning of the day, a water tank contained 526.8 gallons of water. During the day, some of the water was used to water a garden. At the end of the day, the water tank contained 318.05 gallons of water. 
+What was the total amount of water used that day? 
+ A 202.75 gallons 
+ B 208.75 gallons 
+ C 208.85 gallons 
+ D 210.80 gallons 
+
+",6,6.NS.3,MCAS,3
+"The expressions in the table below show the amount of money, in dollars, that Natalie and Drew each earned babysitting last week. 
+Earnings from Babysitting y2016_grade5_q21_img_1.png 
+Based on the expressions in the table, which of the following statements is true? 
+ A Drew earned $4 less than Natalie. 
+ B Natalie earned $8 more than Drew. 
+ C Natalie earned 12 times as much as Drew. 
+ D Drew earned 4 times as much as Natalie. 
+
+",5,5.OA.2,MCAS,2
+"Lily wrote the expression shown in the box below. 
+$$6x - 3$$ 
+a. {'element_type': 'text-plain', 'element_value': 'What is the coefficient of the variable in Lily’s expression?'} 
+b. {'element_type': 'text+math_expression', 'element_value': 'What is the value of Lily’s expression when $$x = 5$$? Show or explain how you got your answer.'} 
+Pedro wrote an expression that is equivalent to the statement shown in the box below. 
+8 more than the difference of $$2x$$ and 1 
+c. {'element_type': 'text-plain', 'element_value': 'What could be the expression that Pedro wrote?'} 
+d. {'element_type': 'text+math_expression', 'element_value': 'What is the difference of the value of Lily’s expression when $$x = 5$$ and the value of Pedro’s expression when $$x = 5$$? Show or explain how you got your answer.'} 
+",6,6.EE.2,MCAS,3
+"Jessica is thinking of a number. She listed some of the factors of her number in the box shown below. 
+2, 3, 4, 6 
+Which of the following could be Jessica’s number? 
+ A 12 
+ B 14 
+ C 16 
+ D 18 
+
+",4,4.OA.4,MCAS,1
+"Compute: 
+$$\left(9 + 2\right) \times \left(8 - 5\right)$$ 
+",5,5.OA.1,MCAS,2
+"This table shows the relationship between the number of pies sold at a farm and the total profit made, in dollars, from the pies sold at the farm. 
+Profit Made from Pies Sold y2017_grade6_q5_img_1.png 
+Part A 
+Based on the table, what is the profit made, in dollars, from each pie sold at the farm? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+Write an equation that can be used to find $$p$$, the total profit made, in dollars, when $$n$$ pies are sold at the farm. 
+Enter your equation in the space provided. 
+Part C 
+Use the equation you wrote in Part B to calculate the profit made, in dollars, when 15 pies are sold at the farm. Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part D 
+One day, the farm made a profit of $144 from the pies sold. How many pies were sold at the farm on that day? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",6,6.EE.9,MCAS,3
+"The chart below shows the number of minutes for each field day activity. 
+Numbers of Laps Children Ran y2015_grade3_q7_img_1.png 
+Which two activities take a total of exactly one hour? 
+ A Races and Egg Toss 
+ B Egg Toss and Kickball 
+ C Races and Tag 
+ D Tag and Kickball 
+
+",3,3.MD.1,MCAS,0
+"The length of Eagle Trail is $$6\frac{3}{5}$$ miles. 
+The length of Bear Trail is $$2\frac{7}{10} miles. 
+What is the difference in length between Eagle Trail and Bear Trail? 
+ A $$3\frac{1}{10} miles$$ 
+ B $$3\frac{9}{10} miles$$ 
+ C $$4\frac{1}{10} miles$$ 
+ D $$4\frac{4}{5} miles$$ 
+
+",5,5.NF.1,MCAS,2
+"A P.E. teacher needs to divide 14 male students and 7 female students into teams, each with the same combination of male students and female students and nobody left out. What is the greatest number of teams that can be formed?",6,['6.NS.B.4'],ASDiv,3
+"Leigh wants to find the number of ounces of pretzels in a 4-pound container. She knows the ratio of ounces to pounds is 16 : 1. 
+Which of the following equations can Leigh use to find x, the number of ounces of pretzels in the 4-pound container? 
+ A $$\frac{x ounces}{4 pounds} = \frac{16 ounces}{1 pound}$$ 
+ B $$\frac{x ounces}{4 pounds} = \frac{1 pound}{16 ounces}$$ 
+ C $$\frac{4 ounces}{x ounces} = \frac{16 pounds}{1 pound}$$ 
+ D $$\frac{4 pounds}{x ounces} = \frac{16 pounds}{1 ounce}$$ 
+
+",6,6.RP.3,MCAS,3
+"Which of the following shapes has the greatest number of lines of symmetry? 
+ A y2015_grade4_q18_img_1.png 
+ B y2015_grade4_q18_img_2.png 
+ C y2015_grade4_q18_img_3.png 
+ D y2015_grade4_q18_img_4.png 
+
+",4,4.G.3,MCAS,1
+"A pet store has 5 fish tanks with 10 fish in each tank. A shopper buys 8 fish and takes them home. 
+After the shopper leaves the store, what is the total number of fish left in the pet store’s tanks? 
+ A 23 
+ B 42 
+ C 50 
+ D 58 
+
+",3,3.OA.8,MCAS,0
+"The heights of six roller coasters are shown in the table below. 
+Roller Coaster Heights y2015_grade3_q12_img_1.png 
+Based on the table, the tallest roller coaster is how many feet taller than the shortest roller coaster? 
+Write your answer in the Answer Box below. 
+Answer Box y2015_grade3_q12_img_2.png 
+",3,3.NBT.2,MCAS,0
+"A radio station manager has $1000 in prize money to give away. She will give away $50 in prize money each hour. 
+Which of the following expressions represents the amount of prize money the radio station manager will have left to give away after h hours, where h is any number of hours? 
+ A $$1000 + 50h$$ 
+ B $$1000h + 50$$ 
+ C $$1000 - 50h$$ 
+ D $$1000h - 50$$ 
+
+",6,6.EE.6,MCAS,3
+"Which of the following expressions represents the number one million? 
+ A $$10^{8}$$ 
+ B $$10^{7}$$ 
+ C $$10^{6}$$ 
+ D $$10^{5}$$ 
+
+",5,5.NBT.2,MCAS,2
+"Ms. Shaw has a quilt that is in the shape of a rectangle. The quilt is 7 feet long and 6 feet wide, as shown below. 
+y2015_grade3_q3_img_1.png 
+a. [{'element_id': 'a_1', 'element_type': 'text-plain', 'element_value': 'What is the perimeter, in feet, of Ms. Shaw’s quilt? Show or explain how you got your answer.'}, {'element_id': 'a_2', 'element_type': 'text-answer_with_red_line', 'element_value': 'Perimeter:<<red_line>>feet'}] 
+Ms. Garcia also has a quilt in the shape of a rectangle. Ms. Garcia’s quilt has the same perimeter as Ms. Shaw’s quilt but has a different area. 
+b. [{'element_id': 'b_1', 'element_type': 'text-plain', 'element_value': 'What could be the length and the width, in feet, of Ms. Garcia’s quilt? Show or explain how you got your answer.'}, {'element_id': 'b_2', 'element_type': 'text-answer_with_red_line', 'element_value': 'Length:<<red_line>>feet'}, {'element_id': 'b_3', 'element_type': 'text-answer_with_red_line', 'element_value': 'Width:<<red_line>>feet'}] 
+",3,3.MD.8,MCAS,0
+"Points A, B, C, and D are shown on the coordinate grid below. 
+y2016_grade5_q1_img_1.png 
+What point represents the ordered pair (3, 4)? 
+ A point A 
+ B point B 
+ C point C 
+ D point D 
+
+",5,5.G.1,MCAS,2
+"Ethan’s car can travel 30 miles per gallon of gasoline. Gasoline costs $4 per gallon, including tax. Ethan drove his car 180 miles on a trip. 
+What was the total cost, in dollars, of the gasoline that the car used for Ethan’s trip? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",6,6.RP.3,MCAS,3
+"This question has four parts. 
+These circle graphs represent the number of sixth-grade and seventh-grade students on academic teams at two middle schools. 
+South
+Middle School Students
+on Academic Teams y2018_grade6_q12_img_1.png 
+Jefferson
+Middle School Students
+on Academic Teams y2018_grade6_q12_img_2.png 
+Part A 
+Based on the data in the circle graph for South Middle School, what percent of students on academic teams are sixth-grade students? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+Based on the data in the circle graph for South Middle School, what is the total number of sixth-grade students on academic teams? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part C 
+Based on the data in both circle graphs, which school has a greater number of sixth-grade students on academic teams? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part D 
+This circle graph represents the number of male and female seventh-grade students on academic teams at Jefferson Middle School. 
+Jefferson Middle School
+Seventh-Grade Students
+on Academic Teams y2018_grade6_q12_img_3.png 
+Based on the data in the circle graph, what is the total number of seventh-grade female students on academic teams at Jefferson Middle School? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",6,6.SP.4,MCAS,3
+"The table below shows the number of lunches sold each day for three days. 
+Lunches Sold y2015_grade4_q2_img_1.png 
+Which of these has a value that is closest to the total number of lunches sold for the three days? 
+ A $$200 + 400 + 200$$ 
+ B $$250 + 450 + 300$$ 
+ C $$300 + 500 + 300$$ 
+ D $$350 + 450 + 300$$ 
+
+",4,4.NBT.3,MCAS,1
+"Elijah wrote two numbers that follow the rules in the box below. 
+ 2_1 Both numbers are less than 10. 
+ 2_2 Both numbers are whole numbers. 
+ 2_3 The least common multiple of the numbers is 18. 
+ 2_4 The greatest common factor of the numbers is 3. 
+
+What two numbers did Elijah write? 
+",6,6.NS.4,MCAS,3
+"Points A, B, C, and D are shown on the number line below. 
+y2016_grade6_q13_img_1.png 
+Which point is located at -7? 
+ A point A 
+ B point B 
+ C point C 
+ D point D 
+
+",6,6.NS.6,MCAS,3
+"Abigail, Beatrice, and Carson combine their eggs to sell them at the market. If Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs, and if eggs can only be sold in cartons of 12, how many eggs will be left over if all cartons are sold?",4,"['2.OA.A.1', '4.OA.A.3']",GSM8K-TRAIN,1
+"Toni drew a diagram of the deck she is building, as shown below. 
+Toni’s Deck y2015_grade3_q16_img_1.png 
+What is the area of the deck Toni is building? 
+ A 24 square meters 
+ B 40 square meters 
+ C 64 square meters 
+ D 80 square meters 
+
+",3,3.MD.7,MCAS,0
+"What is the value of this expression? 
+$$ − \left( −8 \right) $$ 
+ A -8 
+ B $$ - \frac{1}{8} $$ 
+ C $$ \frac{1}{8} $$ 
+ D 8 
+
+",6,6.NS.6,MCAS,3
+"There are 36 boxes of colored pencils in a supply closet. Each box has 144 colored pencils in it. 
+What is the total number of colored pencils in the supply closet? 
+ A 1,296 
+ B 5,184 
+ C 6,284 
+ D 9,072 
+
+",5,5.NBT.5,MCAS,2
+"Which of the following inequalities is true? 
+ A $$0.37 \lt 0.3$$ 
+ B $$0.3 \gt 0.298$$ 
+ C $$0.298 \lt 0.2$$ 
+ D $$0.2 \gt 0.37$$ 
+
+",5,5.NBT.3,MCAS,2
+"How many sides does a parallelogram have in all? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2018_grade3_q37_img_1.png 
+",3,3.G.1,MCAS,0
+"Amanda bought 4 bags of potatoes at a market. Each bag of potatoes weighed 5.75 pounds. 
+Which of the following expressions can be used to find the total weight, in pounds, of the bags of potatoes Amanda bought? 
+ A $$ \left( 4 \times 5 \right) + \left( 0.7 + 0.05 \right) $$ 
+ B $$ \left( 4 \times 5 \right) + \left( 4 \times 7 \right) + \left( 4 \times 0.5 \right) $$ 
+ C $$ \left( 4 \times 50 \right) + \left( 4 \times 7 \right) + \left( 4 \times 0.5 \right) $$ 
+ D $$ \left( 4 \times 5 \right) + \left( 4 \times 0.7 \right) + \left( 4 \times 0.05 \left) $$ 
+
+",5,5.NBT.7,MCAS,2
+"A shape and its side lengths are shown. 
+y2017_grade3_q1_img_1.png 
+Which statement about the shape is true? 
+ A The shape is a rhombus and a square. 
+ B The shape is a rectangle and a square. 
+ C The shape is a rhombus and a parallelogram. 
+ D The shape is a rectangle and a parallelogram. 
+
+",3,3.G.1,MCAS,0
+"Alyssa is solving this equation. 
+$$ 56 \div 7 = n $$ 
+Which of these could Alyssa use to find the value of n? 
+ A $$ 7 \div 56 = n $$ 
+ B $$ 7 \times 56 = n $$ 
+ C $$ n \div 7 = 56 $$ 
+ D $$ n \times 7 = 56 $$ 
+
+",3,3.OA.6,MCAS,0
+"Justin divided 403 by a number and got a quotient of 26 with a remainder of 13. What was the number Justin divided by? 
+ A 13 
+ B 14 
+ C 15 
+ D 16 
+
+",6,6.NS.2,MCAS,3
+"This question has three parts. 
+Ben walked a distance of 1.2 kilometers. Alice walked a distance of 0.85 kilometer. Walter walked a distance of 50 meters. 
+Part A 
+What is the distance, in meters, that Ben walked? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+How many more meters did Ben walk than Alice walked? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part C 
+What is the total distance, in kilometers, that Ben, Alice, and Walter walked? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",5,5.MD.1,MCAS,2
+"Laroy wrote the number sentence shown. 
+$$ 8 \times \left( 3 + 2 \right) = \boxed{?} $$ 
+ 
+ A $$ \left( 8 \times 3 \right) + 2 = \boxed{?} $$ 
+ B $$ \left( 8 \times 3 \right) \times \left( 8 \times 2 \right) = \boxed{?} $$ 
+ C $$ \left( 8 \times 3 \right) + \left( 8 \times 2 \right) = \boxed{?} $$ 
+ D $$ \left( 8 + 3 \right) \times \left( 8 + 2 \right) = \boxed{?} $$ 
+
+",3,3.OA.5,MCAS,0
+"Bonnie has a card with a picture that models a multiplication fact, as shown below. 
+y2015_grade3_q11_img_1.png 
+In the Answer Box below, write a division fact that matches Bonnie’s picture. 
+Answer Box y2015_grade3_q11_img_2.png 
+",3,3.OA.7,MCAS,0
+"A farmer has 20 bins of apples. Each bin has 25 red apples and 30 green apples. 
+Which of the following expressions can be used to find the total number of apples in all the bins? 
+ A $$20 + \left(25 \times 30\right)$$ 
+ B $$20 \times \left(25 + 30\right)$$ 
+ C $$\left(20 + 25\right) \times \left(20 \times 30\right)$$ 
+ D $$\left(20 \times 25\right) \times \left(20 \times 30\right)$$ 
+
+",5,5.OA.2,MCAS,2
+"Which of the following graphs shows a constant rate of change between the variables x and y? 
+ A y2015_grade6_q18_img_1.png 
+ B y2015_grade6_q18_img_2.png 
+ C y2015_grade6_q18_img_3.png 
+ D y2015_grade6_q18_img_4.png 
+
+",6,6.EE.9,MCAS,3
+"Which of these figures has the same area as a rectangle that has a length of 6 inches and a width of 5 inches? 
+ A y2018_grade3_q10_img_1.png 
+ B y2018_grade3_q10_img_2.png 
+ C y2018_grade3_q10_img_3.png 
+ D y2018_grade3_q10_img_4.png 
+
+",3,3.MD.7,MCAS,0
+"A police officer recorded the speeds, in miles per hour, of 21 cars that passed by on a highway. The results are shown in the line plot below. 
+Speeds of Cars on a Highway\n(miles per hour) y2015_grade6_q10_img_1.png 
+What is the total number of cars that had a recorded speed greater than 55 miles per hour? 
+ A 6 
+ B 9 
+ C 12 
+ D 21 
+
+",6,6.SP.4,MCAS,3
+"Mr. Walsh has a sign that is in the shape of a trapezoid. Some of the dimensions of Mr. Walsh’s sign are shown below. 
+y2015_grade6_q20_img_1.png 
+What is the area of Mr. Walsh’s sign? 
+ A 24 sq. ft. 
+ B 36 sq. ft. 
+ C 42 sq. ft. 
+ D 48 sq. ft. 
+
+",6,6.G.1,MCAS,3
+"The picture below shows the $$1\frac{1}{2} pans of cookies that Reggie baked. 
+y2015_grade4_q12_img_1.png 
+Which of the following is another way to write $$1\frac{1}{2}? 
+ A $$\frac{11}{2}$$ 
+ B $$\frac{18}{2}$$ 
+ C $$1\frac{6}{12}$$ 
+ D $$1\frac{6}{18}$$ 
+
+",4,4.NF.1,MCAS,1
+"Which of these is equivalent to $$ \frac{38]{100} $$ ? 
+ A 0.038 
+ B 0.38 
+ C 38.0 
+ D 380 
+
+",4,4.NF.6,MCAS,1
+"Ethan is hiking in a canyon. 
+ 2_1 He is at an elevation that is below sea level. 
+ 2_2 His elevation is within 200 feet of sea level. 
+
+Which of the following could be Ethan’s elevation in feet? 
+ A -300 
+ B -150 
+ C 150 
+ D 300 
+
+",6,6.NS.5,MCAS,3
+"The table below shows the amount, in pounds, of snow that Andy can remove over time using a shovel. 
+Snow Removal Using a Shovel y2016_grade6_q8_img_1.png 
+a. {'element_type': 'number+text', 'element_value': 'Based on the table, what is the amount, in pounds, of snow that Andy can remove in 5 minutes using a shovel? Show or explain how you got your answer.'} 
+On the grid in your Student Answer Booklet, copy the x-axis, the y-axis, and the labels exactly as shown below. 
+y2016_grade6_q8_img_2.png 
+b. {'element_type': 'text-plain', 'element_value': 'On your grid, plot the data from the table to show the amount of snow that Andy can remove over time.'} 
+c. {'element_type': 'number+text', 'element_value': 'Based on your graph, what is the amount, in pounds, of snow that Andy can remove in 10 minutes? Show or explain how you got your answer.'} 
+",6,6.RP.3,MCAS,3
+"Devin wrote a number in expanded form, as shown below. 
+500,000 + 90,000 + 3,000 + 20 + 8 
+Write Devin’s number in standard form. 
+",4,4.NBT.2,MCAS,1
+"Ryan put 3 liters of water in a bucket. How much water, in milliliters, did Ryan put in the bucket? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",4,4.MD.1,MCAS,1
+"For this question, you will draw three shapes on the grid in your Student Answer Booklet. 
+a. {'element_type': 'text-plain', 'element_value': 'On the grid in your Student Answer Booklet, draw a parallelogram. Label your parallelogram A.'} 
+b. [{'element_id': 'b_1', 'element_type': 'text-plain', 'element_value': 'On the grid in your Student Answer Booklet, draw a triangle that has two sides that are perpendicular to each other.'}, {'element_id': 'b_2', 'element_type': 'text-plain', 'element_list': [{'element_id': 'b_2_1', 'element_type': 'text-plain', 'element_value': 'Label your triangle B.'}, {'element_id': 'b_2_2', 'element_type': 'text-plain', 'element_value': 'Put an X on each of the sides that are perpendicular.'}, {'element_id': 'b_2_3', 'element_type': 'text-plain', 'element_value': 'Explain how you know the sides you labeled X are perpendicular.'}]}, {'element_id': '4', 'element_type': 'sub_question', 'sub_question_id': 'c.', 'sub_question': {'element_type': 'text-plain', 'element_value': 'On the grid in your Student Answer Booklet, draw a shape that has at least one pair of parallel sides, at least one pair of perpendicular sides, and only two right angles. Label your shape C.'}}, {'element_id': '5', 'element_type': 'sub_question', 'sub_question_id': 'd.', 'sub_question': {'element_type': 'text-plain', 'element_value': 'What is the mathematical name of the shape you drew in part (c)?'}}] 
+",4,4.G.2,MCAS,1
+"Ms. Jeffers has 6 boxes of pencils. Each box contains 30 pencils. 
+How many pencils does Ms. Jeffers have altogether? 
+ A 36 
+ B 90 
+ C 126 
+ D 180 
+
+",3,3.NBT.3,MCAS,0
+"A theater has a total of 750 seats. 
+ 2_1 There are 30 rows of seats in the theater. 
+ 2_2 Each row has the same number of seats. 
+
+What is the total number of seats in each row of the theater? 
+ A 21 
+ B 23 
+ C 25 
+ D 27 
+
+",6,6.NS.2,MCAS,3
+"Use your ruler to answer question 18. 
+Kyle traced his toy car, as shown. 
+y2018_grade3_q18_img_1.png 
+What is the length, to the nearest fourth of an inch, of Kyle’s toy car? 
+ A $$ 3 \frac{1}{4} $$ inches 
+ B $$ 3 \frac{2}{4} $$ inches 
+ C $$ 4 \frac{1}{4} $$ inches 
+ D $$ 4 \frac{2}{4} $$ inches 
+
+",3,3.MD.4,MCAS,0
+"The histogram below represents the number of minutes some students studied for a geography quiz. 
+Minutes Spent Studying y2016_grade6_q9_img_1.png 
+Based on the histogram, what is the total number of students who studied between 11 and 25 minutes for the geography quiz? 
+ A 6 
+ B 14 
+ C 21 
+ D 33 
+
+",6,6.SP.4,MCAS,3
+"Carmen’s living room floor has the shape and dimensions shown in this diagram. 
+y2018_grade6_q27_img_1.png 
+What is the area of Carmen’s living room floor? 
+ A 234 square feet 
+ B 252 square feet 
+ C 330 square feet 
+ D 378 square feet 
+
+",6,6.G.1,MCAS,3
+"There are 720 students at a school. All the students at the school are going on a field trip to a science museum. The students will ride school buses to the museum. Each bus holds 60 students when completely full. 
+Part A 
+What is the least number of buses needed to take all the students from the school to the science museum? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+Write an equation to represent the problem you solved in Part A. 
+Enter your equation in the space provided. Enter only your equation. 
+Part C 
+The school can also use smaller buses to take the students to the museum. Each smaller bus holds 50 students when completely full. 
+What is the least number of smaller buses needed to take all the students from the school to the science museum? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",5,5.NBT.6,MCAS,2
+Rebecca wants to split a collection of eggs into groups of 2. Rebecca has 16 eggs and 3 marbles. How many groups will be created?,3,['3.OA.A.3'],ASDiv,0
+"Tina makes $18.00 an hour.  If she works more than 8 hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage.  If she works 10 hours every day for 5 days, how much money does she make?",4,"['2.OA.A.1', '2.NBT.B.7', '1.OA.A.1', '3.OA.A.3', '4.NBT.B.5', '4.NF.B.4.c']",GSM8K-TRAIN,1
+"Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",3,"['3.OA.A.3', '2.OA.A.1']",GSM8K-TRAIN,0
+"Claire wrote a number that is greater than zero on her paper. When Claire’s number is multiplied by any whole number, the last digit of the product is always 0. 
+In the Answer Box below, write a number that could be Claire’s number. 
+Answer Box y2016_grade3_q12_img_1.png 
+",3,3.NBT.3,MCAS,0
+"Which model shows a way to multiply 3 by 14? 
+ A y2015_grade4_q5_img_1.png 
+ B y2015_grade4_q5_img_2.png 
+ C y2015_grade4_q5_img_3.png 
+ D y2015_grade4_q5_img_4.png 
+
+",4,4.NBT.5,MCAS,1
+"Luke recorded the number of days it rained each month for 12 months. He made a box plot to represent the data, as shown below. 
+Number of Days of Rain Per Month y2016_grade6_q17_img_1.png 
+What is the interquartile range of the data in Luke’s box plot? 
+ A 11 
+ B 9 
+ C 8 
+ D 5 
+
+",6,6.SP.5,MCAS,3
+"Gianna drew an X on two sides of a triangle, as shown below. 
+y2016_grade4_q13_img_1.png 
+Which statement is true about the sides that Gianna drew an X on? 
+ A The sides are parallel. 
+ B The sides are perpendicular. 
+ C The sides form an acute angle. 
+ D The sides form an obtuse angle. 
+
+",4,4.G.1,MCAS,1
+"Sophia mixed paint in a bucket. For every three cups of yellow paint she put in the bucket, she mixed in one cup of white paint. 
+What is the ratio of yellow paint to white paint in Sophia’s mixture? 
+ A 3:1 
+ B 1:3 
+ C 3:4 
+ D 4:3 
+
+",6,6.RP.1,MCAS,3
+"Victoria scored a total of 9 points in the first basketball game of the season. She scored 5 points per game in each of the other x basketball games she played that season. 
+Which of the following expressions represents the total number of points Victoria scored in the basketball games for the whole season? 
+ A $$ 5x $$ 
+ B $$ 14x $$ 
+ C $$ 5 + 9x $$ 
+ D $$ 9 + 5x $$ 
+
+",6,6.EE.6,MCAS,3
+"Christopher planted 24 bean plants in his garden. He placed the bean plants in 4 rows. Each row had the same number of plants. 
+a. {'element_type': 'text-plain', 'element_value': 'Draw an array to show how Christopher placed all the bean plants in his garden.'} 
+b. {'element_type': 'text-plain', 'element_value': 'How many bean plants did Christopher place in each row?'} 
+",3,3.OA.3,MCAS,0
+"Ayanna lives 0.67 mile from a school. Kellen lives farther from the school than Ayanna does. 
+Which of these could be the distance Kellen lives from the school? 
+ A 0.59 mile 
+ B 0.74 mile 
+ C 0.48 mile 
+ D 0.61 mile 
+
+",4,4.NF.7,MCAS,1
+"Rasheed conducted a survey at his school. He asked each student to name one favorite season of the year. The results of Rasheed’s survey are shown in this chart. 
+Students’ Favorite
+Season of the Year y2017_grade6_q1_img_1.png 
+Which of the following circle graphs appears to correctly represent the results of Rasheed’s survey? 
+ A Students’ Favorite
+Season of the Year y2017_grade6_q1_img_2.png 
+ B Students’ Favorite
+Season of the Year y2017_grade6_q1_img_3.png 
+ C Students’ Favorite
+Season of the Year y2017_grade6_q1_img_4.png 
+ D Students’ Favorite
+Season of the Year y2017_grade6_q1_img_5.png 
+
+",6,6.SP.4,MCAS,3
+What is the value of $9^3 + 3(9^2) + 3(9) + 1$?,6,"['HS.A-APR.C.5', '6.EE.A.1', '6.EE.A.2.c']",GSM8K-TRAIN,3
+"Ashley’s ladder is 1.85 meters high. What is the height, in centimeters, of Ashley’s ladder? 
+Enter your answer in the box. 
+",5,5.MD.1,MCAS,2
+"A group of 5 campers used a total of 12 gallons of water on a camping trip. Each camper used the same amount of water. 
+How many gallons of water did each camper use? 
+ A $$\frac{1}{12}$$ 
+ B $$\frac{5}{12}$$ 
+ C $$2\frac{2}{5}$$ 
+ D $$2\frac{1}{2}$$ 
+
+",5,5.NF.3,MCAS,2
+"Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",6,"['2.OA.A.1', '6.RP.A.3.d', '1.OA.A.1']",GSM8K-TRAIN,3
+"Which of these shapes is both a rhombus and a rectangle? 
+ A y2018_grade3_q12_img_1.png 
+ B y2018_grade3_q12_img_2.png 
+ C y2018_grade3_q12_img_3.png 
+ D y2018_grade3_q12_img_4.png 
+
+",3,3.G.1,MCAS,0
+"An expression is shown below. 
+$$g + 3f + f + g + g$$ 
+Write an equivalent expression that uses each variable only once. 
+",6,6.EE.4,MCAS,3
+"Jane, Frank, and Denise each cut a length of ribbon. 
+ 2_1 Jane’s ribbon is 0.5 meter long. 
+ 2_2 Frank’s ribbon is 0.39 meter long. 
+ 2_3 Denise’s ribbon is 0.4 meter long. 
+
+Which statement about the lengths of the ribbons is true? 
+ A Jane’s ribbon is longer than Frank’s ribbon. 
+ B Denise’s ribbon is longer than Jane’s ribbon. 
+ C Frank’s ribbon is longest. 
+ D Denise’s ribbon is shortest. 
+
+",4,4.NF.7,MCAS,1
+"Ms. Hanson poured water into a jug, as shown below. 
+y2016_grade3_q1_img_1.png 
+Which of these is closest to the amount of water in the jug? 
+ A 2 liters 
+ B $$2\frac{1}{2}$$ liters 
+ C 3 liters 
+ D $$3\frac{1}{2}$$ liters 
+
+",3,3.MD.2,MCAS,0
+"Nathan is using the area model below to solve a problem. 
+y2016_grade4_q8_img_1.png 
+Which problem is represented by the whole area model? 
+ A $$12 \times 6 = \square$$ 
+ B $$16 \times 13 = \square$$ 
+ C $$20 \times 9 = \square$$ 
+ D $$60 \times 90 = \square$$ 
+
+",4,4.NBT.5,MCAS,1
+"A bowl of punch is made by mixing 3 parts juice to 1 part soda. Which of the following statements about the punch is not true? 
+ A Soda makes up $$ \frac{1}{4} $$ of the punch. 
+ B Juice makes up $$ \frac{3}{4} $$ of the punch. 
+ C The amount of soda in the punch is $$ \frac{1}{2} $$ the amount of juice in the punch. 
+ D The amount of juice in the punch is 3 times the amount of soda in the punch. 
+
+",6,6.RP.1,MCAS,3
+"The location of point T is shown on the coordinate grid below. 
+y2015_grade6_q16_img_1.png 
+Point S is located 5 units to the right of point T. What are the coordinates of point S? 
+",6,6.NS.8,MCAS,3
+"Which of the following is equivalent to the expression below? 
+$$7h + 1$$ 
+ A $$h + 7$$ 
+ B $$7\left(h + 1\right)$$ 
+ C $$\left(5h + 2\right) + 1$$ 
+ D $$\left(5 + 2\right)h + 1$$ 
+
+",6,6.EE.4,MCAS,3
+"Carolina is twice as old as her brother Diego will be in 3 years. Diego is 4 years old now. The expression below shows how to find Carolina’s age, in years. 
+$$2 \times \left( 4 + 3\right)$$ 
+a. {'element_type': 'text-plain', 'element_value': 'What is Carolina’s age, in years? Show or explain how you got your answer.'} 
+Carolina’s sister, Marisol, is three times as old as Diego was 2 years ago. 
+b. {'element_type': 'text-plain', 'element_value': 'Write an expression using numbers and operations to represent Marisol’s age, in years.'} 
+c. {'element_type': 'text-plain', 'element_value': 'What is Marisol’s age, in years? Show or explain how you got your answer.'} 
+The expression below represents the difference, in years, between the ages of Carolina’s father and her mother. 
+$$\left(15 \times 3\right) - \left[\left(10 \times 4\right) - 2 \right]$$ 
+d. {'element_type': 'text-plain', 'element_value': 'What is the difference, in years, between the ages of Carolina’s father and her mother? Show or explain how you got your answer.'} 
+",5,5.OA.1,MCAS,2
+"Brendan made a line plot showing the weekly rainfall, in inches, for his town one summer. His line plot is shown below. 
+Weekly Rainfall
+(in inches) y2016_grade4_q18_img_1.png 
+Which of these expressions can Brendan use to find the difference, in inches, between the greatest weekly rainfall and the least weekly rainfall that he recorded for his town? 
+ A $$1\frac{1}{2} - \frac{1}{2}$$ 
+ B $$5\frac{1}{2} - \frac{1}{2}$$ 
+ C $$5\frac{1}{2} - 1\frac{1}{2}$$ 
+ D $$6 - \frac{1}{2}$$ 
+
+",4,4.MD.4,MCAS,1
+"At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?",3,"['3.OA.A.3', 'K.OA.A.2']",ASDiv,0
+"Mr. Felton will use exactly 42 feet of fencing to surround a garden that is in the shape of a rectangle. His garden has a length of 12 feet. The equation below represents the perimeter of Mr. Felton’s garden. 
+$$ w + w + 12 + 12 = 42 $$ 
+What is $$w$$, the width, in feet, of Mr. Felton’s garden? 
+Enter your answer in the box. 
+",4,4.MD.3,MCAS,1
+"The net of a triangular prism and some of its dimensions are shown in the diagram. 
+y2017_grade6_q2_img_1.png 
+What is the total surface area, in square inches, of the triangular prism? 
+Enter your answer in the box. 
+",6,6.G.4,MCAS,3
+"Which of the following statements is true? 
+ A $$ \left( 25 \times 10 \right) − 15 $$ is 15 decreased by the product of 25 and 10. 
+ B $$ 3 + \left( 19 − 10 \right) $$ is 3 more than the sum of 19 and 10. 
+ C $$ 7 − \left( 18 + 38 \right) $$ is 7 less than the sum of 18 and 38. 
+ D $$ \left( 24 \div 6 \right) \times 5 $$ is 5 times the quotient of 24 and 6. 
+
+",5,5.OA.2,MCAS,2
+"A class of 29 students is taking a field trip to the zoo. Each ticket to the zoo costs $15. 
+Which of these expressions can be used to find the total cost, in dollars, of the tickets to the zoo? 
+ A $$\left(29 + 10\right) + \left(29 + 5\right)$$ 
+ B $$\left(29 \times 10\right) + \left(29 \times 5\right)$$ 
+ C $$\left(29 + 10\right) \times \left(29 + 5\right)$$ 
+ D $$\left(29 \times 10\right) \times \left(29 \times 5\right)$$ 
+
+",4,4.NBT.5,MCAS,1
+"Guthrie made the input-output table shown below. 
+y2016_grade6_q15_img_1.png 
+Which of the following equations is true for all values in Guthrie’s input-output table? 
+ A $$x + 3 = y$$ 
+ B $$x + 7 = y$$ 
+ C $$3x + 1 = y$$ 
+ D $$4x - 1 = y$$ 
+
+",6,6.EE.9,MCAS,3
+"Greta recorded the number of miles she walked each day last week on a line plot, as shown below. 
+Number of Miles Walked y2015_grade4_q15_img_1.png 
+How many miles in all did Greta walk last week? 
+ A 8 miles 
+ B 10 miles 
+ C $$12rac{1}{2}$$ miles 
+ D $$14rac{1}{2}$$ miles 
+
+",4,4.MD.4,MCAS,1
+"Jody wrote the expression shown below. 
+$$\left(2 \times 3\right) + \left(2 \times 5\right)$$ 
+Which of these is another way to write Jody’s expression? 
+ A $$2 \times 8$$ 
+ B $$4 \times 8$$ 
+ C $$4 \times 15$$ 
+ D $$6 \times 10$$ 
+
+",3,3.OA.5,MCAS,0
+"Vegetables were planted in $$ \frac{1}{2} $$ of a garden. The section of the garden where vegetables were planted was divided into 3 equal parts: one for carrots, one for lettuce, and one for tomatoes. 
+Which of the following models is shaded to represent the fraction of the garden where carrots were planted? 
+y2018_grade5_q11_img_1.png 
+ A y2018_grade5_q11_img_2.png 
+ B y2018_grade5_q11_img_3.png 
+ C y2018_grade5_q11_img_4.png 
+ D y2018_grade5_q11_img_5.png 
+
+",5,5.NF.7,MCAS,2
+"Which of the following expressions has the greatest value? 
+ A $$2^{3} + 2^{3}$$ 
+ B $$2^{3} + 7^{1}$$ 
+ C $$3^{2} + 3^{2}$$ 
+ D $$3^{2} + 7^{1}$$ 
+
+",6,6.EE.1,MCAS,3
+"Ms. Montano asked her students to solve the equation shown in the box below. 
+$$\frac{6}{7} + \frac{5}{6} = n$$ 
+Which of the following is closest to the value of n ? 
+ A $$\frac{1}{4}$$ 
+ B $$\frac{3}{4}$$ 
+ C $$1\frac{1}{2}$$ 
+ D $$5\frac{1}{2}$$ 
+
+",5,5.NF.2,MCAS,2
+"Very early this morning, Elise left home in a cab headed for the hospital. Fortunately, the roads were clear, and the cab company only charged her a base price of $3, and $4 for every mile she traveled. If Elise paid a total of $23, how far is the hospital from her house?",3,"['3.OA.A.3', '2.OA.A.1']",GSM8K-TRAIN,0
+"What value of p makes this equation true? 
+$$ 3,032 \div p = 8 $$ 
+ A 354 
+ B 375 
+ C 379 
+ D 382 
+
+",4,4.NBT.6,MCAS,1
+"Bill’s flower garden has an area of 28 square feet. The rectangular garden is 7 feet long. What is the width of the garden? 
+ A 4 feet 
+ B 8 feet 
+ C 21 feet 
+ D 35 feet 
+
+",6,6.G.1,MCAS,3
+"All of the benches in a park are red or blue. The ratio of red benches to blue benches in the park is 3 : 4. 
+Based on this information, which of the following statements is true? 
+ A For every 4 benches in the park, 3 are red. 
+ B For every 7 benches in the park, 4 are red. 
+ C For every 3 red benches in the park, there are 4 blue benches. 
+ D For every 3 red benches in the park, there are 7 blue benches. 
+
+",6,6.RP.1,MCAS,3
+"Eberto wrote this expression in his notebook. 
+$$ 10 \times 10 \times 10 \times 10 $$ 
+Which of the following is equivalent to Eberto’s expression? 
+ A $$ 3^10 $$ 
+ B $$ 4^10 $$ 
+ C $$ 10^3 $$ 
+ D $$ 10^4 $$ 
+
+",5,5.NBT.2,MCAS,2
+"Olivia’s height is 1.34 meters. What is Olivia’s height in centimeters? 
+ A 0.0134 centimeter 
+ B 0.134 centimeter 
+ C 13.4 centimeters 
+ D 134.0 centimeters 
+
+",4,4.MD.1,MCAS,1
+"Deron bought some packs of baseball cards. Each pack had 5 baseball cards. He bought 30 baseball cards in all. 
+What is the total number of packs of baseball cards Deron bought? 
+ A 8 
+ B 7 
+ C 6 
+ D 5 
+
+",3,3.OA.7,MCAS,0
+"Roya paid $48 for 12 cartons of orange juice. What is the unit rate per carton of orange juice that Roya paid? 
+ A $3 
+ B $4 
+ C $6 
+ D $12 
+
+",6,6.RP.2,MCAS,3
+"A student has $10. She will save $5 each week. The student wrote the expression shown to represent the amount of money she will have after w weeks. 
+$$ 5w + 10 $$ 
+Which of the following expressions is equivalent to the student’s expression for any value of w? 
+ A $$ 15w $$ 
+ B $$ 50w $$ 
+ C $$ 5 \left( w + 2 \right) $$ 
+ D $$ 5 \left( w + 10 \right) $$ 
+
+",6,6.EE.3,MCAS,3
+"Jody read the clues below about a mystery number. 
+ 2_1 It is a multiple of 2. 
+ 2_2 It is a factor of 18. 
+ 2_3 It is a composite number. 
+
+Which of these numbers could be the mystery number? 
+ A 2 
+ B 6 
+ C 9 
+ D 12 
+
+",4,4.OA.4,MCAS,1
+"Anjali has the shape shown. 
+y2018_grade4_q1_img_1.png 
+What is the total number of right angles Anjali’s shape appears to have? 
+ A 0 
+ B 1 
+ C 2 
+ D 3 
+
+",4,4.G.1,MCAS,1
+"What is 946 rounded to the nearest hundred? 
+ A 800 
+ B 900 
+ C 950 
+ D 1000 
+
+",3,3.NBT.1,MCAS,0
+"Which of the following expressions represents “subtract 17 from x ” ? 
+ A $$17 - x$$ 
+ B $$x - 17$$ 
+ C $$-17x$$ 
+ D $$-x -17$$ 
+
+",6,6.EE.2,MCAS,3
+"Ms. Curran wrote three clues about a shape, as shown in this box. 
+Clues  2_1 It is a quadrilateral. 
+ 2_2 It has two right angles. 
+ 2_3 Two of its sides are parallel. 
+
+Which of the following shapes matches all three clues? 
+ A y2018_grade4_q39_img_1.png 
+ B y2018_grade4_q39_img_2.png 
+ C y2018_grade4_q39_img_3.png 
+ D y2018_grade4_q39_img_4.png 
+
+",4,4.G.2,MCAS,1
+"On Monday, the school store sold pencils, pens, erasers, and rulers. 
+ 2_1 The store sold 6 more pencils than pens. 
+ 2_2 The store sold 2 times as many erasers as rulers. 
+
+Which of these bar graphs could show the items that were sold on Monday? 
+ A School Store
+Sales on Monday y2016_grade3_q17_img_1.png 
+ B School Store
+Sales on Monday y2016_grade3_q17_img_2.png 
+ C School Store
+Sales on Monday y2016_grade3_q17_img_3.png 
+ D School Store
+Sales on Monday y2016_grade3_q17_img_4.png 
+
+",3,3.MD.3,MCAS,0
+"Kane placed point H on a number line to show $$\frac{3}{4}$$. Which of these could be Kane’s number line? 
+ A y2015_grade3_q17_img_1.png 
+ B y2015_grade3_q17_img_2.png 
+ C y2015_grade3_q17_img_3.png 
+ D y2015_grade3_q17_img_4.png 
+
+",3,3.NF.2,MCAS,0
+"A right triangle and its dimensions are shown in the diagram below. 
+y2015_grade6_q5_img_1.png 
+What is the area, in square meters, of the triangle? 
+",6,6.G.1,MCAS,3
+"Josh measured the daily rainfall in his city for two weeks. He recorded the rainfall amounts to the nearest one-fourth inch on a line plot, as shown below. 
+Amount of Rainfall (inches) y2016_grade5_q19_img_1.png 
+What is the total amount of rainfall Josh recorded for the two weeks? 
+ A $$2\frac{1}{2} inches$$ 
+ B $$4\frac{1}{4} inches$$ 
+ C 8 inches 
+ D 14 inches 
+
+",5,5.MD.2,MCAS,2
+"Each meal at a school cafeteria is served with 2 portions of vegetables. What is the ratio of meals served to portions of vegetables served at the school cafeteria? 
+ A 1 : 2 
+ B 1 : 3 
+ C 2 : 1 
+ D 3 : 1 
+
+",6,6.RP.1,MCAS,3
+"Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?",3,"['3.OA.A.3', '2.OA.A.1', '3.NBT.A.2']",GSM8K-TRAIN,0
+"This question has four parts. 
+Juan and Lily each wrote a pattern. 
+Lily wrote a pattern using a rule with two operations. The rule is “subtract 2, add 8.” The first five numbers in her pattern are shown. 
+114, 112, 120, 118, 126, ... 
+Part A 
+Continue Lily’s pattern to show the next four numbers in her pattern. 
+Enter your answer in the space provided. 
+Part B 
+Explain why the numbers in Lily’s pattern increased overall, although part of her rule is “subtract 2.” 
+Enter your explanation in the space provided. 
+Part C 
+Juan also wrote a pattern using a rule with two operations. The first two numbers in his pattern are shown. 
+150, 160, ... 
+The seventh number in Juan’s pattern is less than the first number in his pattern. Write a rule with two operations that could be Juan’s rule. 
+Enter your answer in the space provided. 
+Part D 
+Continue Juan’s pattern to show the next five numbers in his pattern using the rule you wrote in Part C. 
+Enter your answer in the space provided. 
+",4,4.OA.5,MCAS,1
+"Which of these shows only multiples of the number 7? 
+ A 1, 7, 14, 21 
+ B 7, 17, 27, 37 
+ C 7, 14, 21, 28 
+ D 14, 21, 28, 36 
+
+",4,4.OA.4,MCAS,1
+"Which of these is true? 
+ A $$\frac{4}{5} = \frac{5}{6}$$ 
+ B $$\frac{4}{5} \gt \frac{5}{6}$$ 
+ C $$\frac{7}{10} \gt \frac{5}{6}$$ 
+ D $$\frac{7}{10} \lt \frac{4}{5}$$ 
+
+",4,4.NF.2,MCAS,1
+"Four students ran in a race. The table below shows the time it took each student to finish the race. 
+Race Finish Time y2016_grade5_q7_img_1.png 
+Which student took the least amount of time to finish the race? 
+ A Karla 
+ B Linda 
+ C Mary 
+ D Sofia 
+
+",5,5.NBT.3,MCAS,2
+"James buys 200 lotto tickets for 2 dollars each.  Of those tickets 20% are winners.  80% of the winners are for 5 dollars. 1 ticket is the grand prize of $5,000.  The other tickets win an average of $10.  How much did he profit?",6,"['2.OA.A.1', '4.NBT.B.4', '1.OA.A.1', '6.RP.A.3', '3.OA.A.3', '4.NBT.B.5']",GSM8K-TRAIN,3
+"What is the value of the expression below when $$n = 6$$? 
+$$2n + 3n$$ 
+ A 12 
+ B 18 
+ C 30 
+ D 62 
+
+",6,6.EE.2,MCAS,3
+"Ella collected 5 times as many bugs as Mari. Mari collected 15 bugs. 
+What was the total number of bugs Ella collected? 
+ A 75 
+ B 55 
+ C 20 
+ D 3 
+
+",4,4.OA.2,MCAS,1
+"A box is in the shape of a right rectangular prism. The base of the box has an area of 15 square inches. The height of the box is 12 inches. 
+What is the volume, in cubic inches, of the box? 
+",5,5.MD.5,MCAS,2
+"Nathan is making two different number patterns: Pattern X and Pattern Y. The rules for the patterns are shown below. 
+Pattern X Add 5. 
+Pattern Y Multiply by 2. 
+Which of the following tables shows the first four terms of Nathan’s Pattern X and Pattern Y? 
+ A y2015_grade5_q4_img_1.png 
+ B y2015_grade5_q4_img_2.png 
+ C y2015_grade5_q4_img_3.png 
+ D y2015_grade5_q4_img_4.png 
+
+",5,5.OA.3,MCAS,2
+"Judy spent $$\frac{1}{2}$$ of her savings on a bicycle and $$\frac{2}{5}$$ of her savings on a helmet. What is the total fraction of her savings that Judy spent on a bicycle and a helmet? 
+",5,5.NF.2,MCAS,2
+"At a café, the cost of a turkey sandwich is $1 less than twice the cost of a side salad. A side salad costs $3.50. 
+Which of the following expressions can be used to find the cost, in dollars, of a turkey sandwich at the café? 
+ A $$ 3.50 \times 2 - 1 $$ 
+ B $$ 3.50 \times 2 + 1 $$ 
+ C $$ \left( 3.50 - 1 \right) \times 2 $$ 
+ D $$ \left( 3.50 + 1 \right) \times 2 $$ 
+
+",5,5.OA.2,MCAS,2
+"Steve has 3 cups of peanuts. He splits the 3 cups of peanuts into $$\frac{1}{3}$$-cup servings. What is the total number of $$\frac{1}{3}$$-cup servings of peanuts Steve has? 
+ A 1 
+ B 3 
+ C 6 
+ D 9 
+
+",5,5.NF.7,MCAS,2
+"Which of the following statements about quadrilaterals is not true? 
+ A Every square is also a rectangle. 
+ B Every trapezoid is also a rectangle. 
+ C Every rhombus is also a parallelogram. 
+ D Every rectangle is also a parallelogram. 
+
+",5,5.G.3,MCAS,2
+"Some angles are shown in the diagram below. 
+y2016_grade4_q17_img_1.png 
+Angle EFG has a measure of 50°, and angle GFH has a measure of 30°. The sum of the measures of angles EFG, GFH, and HFJ is 120°. 
+What is the measure, in degrees, of angle HFJ ? 
+",4,4.MD.7,MCAS,1
+"A soccer coach bought eight soccer balls. This line plot shows the weight of each ball the coach bought. 
+Weight of Soccer Balls
+(in pounds) y2017_grade5_q4_img_1.png 
+What is the total weight, in pounds, of all the soccer balls the coach bought? 
+ A $$ 2\frac{5}{8} $$ 
+ B $$ 4\frac{1}{2} $$ 
+ C $$ 6\frac{7}{8} $$ 
+ D $$ 7\frac{5}{8} $$ 
+
+",5,5.MD.2,MCAS,2
+"Camila created some ordered pairs from corresponding terms of two different patterns. Then she plotted the ordered pairs on a graph, as shown. 
+y2018_grade5_q39_img_1.png 
+Which of the following describes the relationship between the corresponding terms of the two patterns? 
+ A Each x-value is five times the corresponding y-value. 
+ B Each y-value is five times the corresponding x-value. 
+ C Each x-value is twelve more than the corresponding y-value. 
+ D Each y-value is twelve more than the corresponding x-value. 
+
+",5,5.OA.3,MCAS,2
+"The decimal 0.30 is represented by the shaded part of this grid. 
+School Play y2018_grade4_q21_img_1.png 
+Which of these is equivalent to the decimal 0.30? 
+ A 0.003 
+ B 0.03 
+ C 0.3 
+ D 3.0 
+
+",4,4.NF.7,MCAS,1
+"The Walker family drove 362 miles. 
+What is 362 rounded to the nearest hundred? 
+ A 300 
+ B 360 
+ C 370 
+ D 400 
+
+",3,3.NBT.1,MCAS,0
+"The scale on a map shows that 1 inch represents 18 miles. The distance on the map between Olivia’s town and her grandmother’s town is 4.5 inches. 
+What is the actual distance between the two towns? 
+ A 4 miles 
+ B 22.5 miles 
+ C 72.5 miles 
+ D 81 miles 
+
+",6,6.RP.3,MCAS,3
+"A student mixes $$ \frac{7}{100} $$ liter of red food dye with $$ \frac{4}{10} $$ liter of water. How many liters in all are in the student’s mixture? 
+ A $$ \frac{11}{100} $$ liter 
+ B $$ \frac{28}{100} $$ liter 
+ C $$ \frac{47}{100} $$ liter 
+ D $$ \frac{74}{100} $$ liter 
+
+",4,4.NF.5,MCAS,1
+"The graph below shows the numbers of laps four children ran in gym class. 
+Numbers of Laps Children Ran y2015_grade3_q1_img_1.png 
+What is the total number of laps the four children ran in gym class? 
+ A 21 
+ B 16 
+ C 11 
+ D 9 
+
+",3,3.MD.3,MCAS,0
+"The measure of each angle in this shape is 108°. 
+y2018_grade4_q28_img_1.png 
+Olivia drew two lines inside the shape and found the measures of two angles, as shown. 
+y2018_grade4_q28_img_2.png 
+What is the value of x ? 
+ A 30 
+ B 48 
+ C 60 
+ D 68 
+
+",4,4.MD.7,MCAS,1
+"Cement is shipped in bags. Each bag weighs 80 pounds. A construction worker needs 1,250 pounds of cement to complete a job. 
+What is the total number of bags of cement that should be shipped for the construction worker to complete the job? 
+ A 14 
+ B 15 
+ C 16 
+ D 17 
+
+",5,5.NBT.6,MCAS,2
+"This scale shows the mass, in grams, of 100 paper clips. 
+y2018_grade3_q32_img_1.png 
+Based on the mass of 100 paper clips, which of these is closest to the mass of 10 paper clips? 
+ A 1 gram 
+ B 10 grams 
+ C 100 grams 
+ D 1000 grams 
+
+",3,3.MD.2,MCAS,0
+"Which of the following graphs shows a constant rate of change between the variables x and y? 
+ A y2016_grade6_q5_img_1.png 
+ B y2016_grade6_q5_img_2.png 
+ C y2016_grade6_q5_img_3.png 
+ D y2016_grade6_q5_img_4.png 
+
+",6,6.EE.9,MCAS,3
+"Jasmine is solving this equation. 
+$$ \frac{x}{4} = 9 $$ 
+What value of $$x$$ makes Jasmine’s equation true? 
+ A 5 
+ B 9 
+ C 13 
+ D 36 
+
+",6,6.EE.7,MCAS,3
+"A chair costs 1/7 of the cost of a table. If a table costs $140, how much will it cost to buy a table and 4 chairs?",4,"['3.OA.A.3', '2.NBT.B.7', '4.NF.B.4.c']",GSM8K-TRAIN,1
+"The graph below shows y, the total cost in dollars, for x tickets to a movie. 
+Movie Tickets y2016_grade5_q4_img_1.png 
+Based on the information in the graph, what would be the total cost for 6 movie tickets? 
+ A $24 
+ B $40 
+ C $48 
+ D $64 
+
+",5,5.G.2,MCAS,2
+"The bar graph shows the numbers of birds that four children saw one day. 
+Numbers of Birds Seen y2017_grade3_q3_img_1.png 
+How many more birds did Jesse see than Andy saw on that day? 
+Enter your answer in the box. 
+y2017_grade3_q3_img_2.png 
+",3,3.MD.3,MCAS,0
+"Each student in a third-grade class made a paper snowflake and measured its length. The line plot below shows the length, in inches, of each paper snowflake. 
+Length of Paper Snowflakes
+(in inches) y2016_grade3_q14_img_1.png 
+What is the length, in inches, of the longest paper snowflake? 
+ A $$3\frac{1}{2}$$ 
+ B 4 
+ C $$4\frac{1}{2}$$ 
+ D 5 
+
+",3,3.MD.4,MCAS,0
+"The bar graph shows the number of children who brought lunch from home each day for four days. 
+Lunch from Home y2018_grade3_q8_img_1.png 
+How many more children brought lunch from home on Monday than brought lunch from home on Thursday? 
+ A 12 
+ B 18 
+ C 22 
+ D 34 
+
+",3,3.MD.3,MCAS,0
+"Which of these is true? 
+ A $$ \frac{1}{12} \times 7 = \frac{7}{12} $$ 
+ B $$ \frac{1}{12} \times 7 = \frac{12}{7} $$ 
+ C $$ \frac{1}{12} \times 7 = \frac{7}{84} $$ 
+ D $$ \frac{1}{12} \times 7 = \frac{84}{7} $$ 
+
+",4,4.NF.4,MCAS,1
+"Which of the following expressions is equivalent to this number? 
+3,620,075 
+ A $$ \left( 3 \times 100,000 \right) + \left( 6 \times 1,000 \right) + \left( 2 \times 100 \right) + \left( 7 \times 10 \right) + \left( 5 \times 1 \right) $$ 
+ B $$ \left( 3 \times 100,000 \right) + \left( 6 \times 10,000 \right) + \left( 2 \times 1,000 \right) + \left( 7 \times 100 \right) + \left( 5 \times 10 \right) $$ 
+ C $$ \left( 3 \times 1,000,000 \right) + \left( 6 \times 100,000 \right) + \left( 2 \times 10,000 \right) + \left( 7 \times 10 \right) + \left( 5 \times 1 \right) $$ 
+ D $$ \left( 3 \times 1,000,000 \right) + \left( 6 \times 10,000 \right) + \left( 2 \times 1,000 \right) + \left( 7 \times 100 \right) + \left( 5 \times 10 \right) $$ 
+
+",5,5.NBT.3,MCAS,2
+"Madison finished \frac{4}{5}$$ of her homework before dinner. What percent of Madison’s homework is left to finish? 
+ A 15% 
+ B 20% 
+ C 45% 
+ D 80% 
+
+",6,6.RP.3,MCAS,3
+"Lisa shaded $$\frac{5}{10}$$ of the square shown below. 
+y2015_grade4_q19_img_1.png 
+Lisa shaded $$\frac{5}{10}$$ of the square shown below. 
+ A 0.05 
+ B 0.12 
+ C 0.20 
+ D 0.50 
+
+",4,4.NF.6,MCAS,1
+"April, June, September, and November each have 30 days. How many days are in the 4 months altogether? 
+ A 34 
+ B 70 
+ C 120 
+ D 136 
+
+",3,3.NBT.3,MCAS,0
+"Use your MCAS ruler to answer question 13. 
+A rectangle is shown below. 
+y2016_grade3_q13_img_1.png 
+a. {'element_type': 'text-plain', 'element_value': 'Draw line segments on the rectangle to divide the rectangle into 8 equal parts.'} 
+b. {'element_type': 'text-plain', 'element_value': 'What fraction of the area of the whole rectangle is the area of each part?'} 
+",3,3.G.2,MCAS,0
+"The owner of a new store is printing 7,520 coupons. The coupons will be sent to 32 locations. Each location will receive the same number of coupons. What is the total number of coupons each location will receive? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",5,5.NBT.6,MCAS,2
+"Point Q is shown on this number line. 
+y2018_grade3_q1_img_1.png 
+Which fraction best names point Q on the number line? 
+ A $$ \frac{1}{4} $$ 
+ B $$ \frac{1}{3} $$ 
+ C $$ \frac{3}{4} $$ 
+ D $$ \frac{4}{4} $$ 
+
+",3,3.NF.2,MCAS,0
+"Use your MCAS ruler to answer question 3. 
+In your Student Answer Booklet, draw two lines that are perpendicular. 
+",4,4.G.1,MCAS,1
+"Daniel has 44 commemorative plates and 33 commemorative spoons. He wants to display them in groups throughout his house, each with the same combination of plates and spoons, with none left over. What is the greatest number of groups Daniel can display?",6,['6.NS.B.4'],ASDiv,3
+"Bianca read 5 books last month. The number of pages in each book that Bianca read is listed in the box below. 
+120, 106, 94, 100, 180 
+What is the mean absolute deviation of the number of pages in the 5 books Bianca read? 
+ A 24 
+ B 30 
+ C 106 
+ D 120 
+
+",6,6.SP.5,MCAS,3
+"An angle turns through $$ \frac{1}{4} $$ of a circle. What is the measure, in degrees, of the angle? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",4,4.MD.5,MCAS,1
+"This question has four parts. 
+The floor of Sophia’s bathroom is in the shape of a rectangle. She covered the floor with square tiles, as shown. 
+y2018_grade5_q25_img_1.png 
+Part A 
+What is the width, in feet, of the floor? 
+Enter your answer in the space provided. 
+Part B 
+Write an equation that can be used to find s, the area in square feet of the floor. 
+Enter your equation in the space provided. 
+Part C 
+Use your equation from Part B to find s, the area in square feet of the floor. Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part D 
+Sophia bought a rug. The rug covers $$ \frac{2}{3} $$ of the floor. What is the area, in square feet, of the rug? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",5,5.NF.4,MCAS,2
+"Which of these is equal to this expression? 
+$$ 9 \times 8 $$ 
+ A $$ \left( 5 \times 8 \right) + \left( 4 \times 8 \right) $$ 
+ B $$ \left( 5 + 8 \right) \times \left( 4 + 8 \right) $$ 
+ C $$ \left( 5 \times 8 \right) \times \left( 4 \times 8 \right) $$ 
+ D $$ \left( 5 + 8 \right) + \left( 4 + 8 \right) $$ 
+
+",3,3.OA.5,MCAS,0
+"Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?",3,"['3.OA.A.3', '2.NBT.B.5']",GSM8K-TRAIN,0
+"Marvin surveyed his classmates to find out their favorite sports. Each classmate chose only one sport. The results of his survey are represented in the circle graph below. 
+Classmates’ Favorite Sports y2016_grade6_q7_img_1.png 
+In all, Marvin surveyed 48 of his classmates. An equal number of Marvin’s classmates chose baseball and football. Based on the circle graph, what is the total number of classmates who chose baseball as their favorite sport? 
+",6,6.SP.4,MCAS,3
+"Ms. Smith and Mr. Lin are both mathematics teachers. These graphs show the amounts of money Ms. Smith and Mr. Lin charge for different numbers of hours of tutoring. 
+Ms. Smith’s
+Tutoring Charges y2018_grade6_q11_img_1.png 
+Mr. Lin’s
+Tutoring Charges y2018_grade6_q11_img_2.png 
+Based on the graphs, how much more does Ms. Smith charge for 6 hours of tutoring than Mr. Lin charges for 6 hours of tutoring? 
+ A $50 
+ B $60 
+ C $180 
+ D $240 
+
+",6,6.EE.9,MCAS,3
+Ava and Shannon are baking pies for a bake sale. Ava baked 14 apple pies and 8 blueberry pies. Shannon baked 12 apple pies and 4 blueberry pies. Who baked a higher ratio of apple pies to blueberry pies?,3,['3.NF.A.3.c'],ASDiv,0
+"Mason wrote the expression shown below. 
+$$5\left(y + 2\right)$$ 
+Write an expression that is equivalent to Mason’s expression. 
+",6,6.EE.3,MCAS,3
+"A box in the shape of a rectangular prism has the dimensions shown below. 
+y2015_grade5_q1_img_1.png 
+What is the volume of the box? 
+ A 36 cubic meters 
+ B 60 cubic meters 
+ C 72 cubic meters 
+ D 84 cubic meters 
+
+",5,5.MD.5,MCAS,2
+"Mr. Jones put 162 books on the library shelves. There are 6 shelves. He put the same number of books on each shelf. How many books did Mr. Jones put on each shelf? 
+ A 22 
+ B 26 
+ C 27 
+ D 28 
+
+",4,4.NBT.6,MCAS,1
+"A freight train traveled 144 miles in 6 hours. At what rate, in miles per hour, did the train travel? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",6,6.RP.2,MCAS,3
+"Which of these shapes has exactly one line of symmetry? 
+ A y2018_grade4_q33_img_1.png 
+ B y2018_grade4_q33_img_2.png 
+ C y2018_grade4_q33_img_3.png 
+ D y2018_grade4_q33_img_4.png 
+
+",4,4.G.3,MCAS,1
+"The 7 children in a family equally shared 4 pizzas. All the pizzas were the same size. Which fraction represents the amount of pizza in each child’s share? 
+ A $$ \frac{4}{7} $$ 
+ B $$ \frac{7}{4} $$ 
+ C $$ 1 \frac{3}{7} $$ 
+ D $$ 1 \frac{4}{7} $$ 
+
+",5,5.NF.3,MCAS,2
+"Which of these numbers has a 5 whose value is ten times the value of the 5 in 7359? 
+ A 5268 
+ B 4652 
+ C 3005 
+ D 2511 
+
+",4,4.NBT.1,MCAS,1
+"Anton cut a large piece of cloth into small rectangles. Each small rectangle has the same area. The area of each small rectangle is $$\frac{1}{8}$$ the area of the large piece. 
+How many small rectangles did Anton cut the large piece of cloth into? 
+ A 1 
+ B 7 
+ C 8 
+ D 9 
+
+",3,3.G.2,MCAS,0
+"Nick ran a race in 14.56 seconds. Casey ran the race in 14.58 seconds. 
+At which place value are Nick’s and Casey’s race times different? 
+ A tens 
+ B ones 
+ C tenths 
+ D hundredths 
+
+",4,4.NF.7,MCAS,1
+"Kenji has 7 times as many baseball cards as Logan. Logan has 360 baseball cards. 
+Which equation can be used to find n, the number of baseball cards Kenji has? 
+ A $$ 7 \times n = 360 $$ 
+ B $$ 7 + n = 360 $$ 
+ C $$ 360 \times 7 = n $$ 
+ D $$ 360 + 7 = n $$ 
+
+",4,4.OA.2,MCAS,1
+"Which of the following statements best describes the solution of this inequality? 
+$$ x < 9 $$ 
+ A There is no solution. 
+ B There is exactly one solution. 
+ C There are exactly eight solutions. 
+ D There are infinitely many solutions. 
+
+",6,6.EE.8,MCAS,3
+"In the geometric sequence with a first term of $6$ and a second term of $-6$, what is the $205^{th}$ term?",3,['3.OA.D.9'],GSM8K-TRAIN,0
+"The value of the 6 in 56,273 is how many times the value of the 6 in 48,624? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",4,4.NBT.1,MCAS,1
+"Amy’s house has a porch that is covered with 1-square-foot tiles. The porch is in the shape of a rectangle, as shown below. 
+y2016_grade3_q10_img_1.png 
+Amy counted the tiles to find the area of the porch. 
+Which of these is another way Amy could find the area, in square feet, of the porch? 
+ A $$\left(4 + 3\right) + \left(4 + 3\right)$$ 
+ B $$\left(4 \times 3\right) + \left(4 \times 3\right)$$ 
+ C $$4 + 3$$ 
+ D $$4 \times 3$$ 
+
+",3,3.MD.7,MCAS,0
+"Which of the following expressions has a product that contains 6 zeros? 
+ A $$6 \times 10^{4}$$ 
+ B $$8.3 \times 10^{5}$$ 
+ C $$2.4 \times 10^{6}$$ 
+ D $$41 \times 10^{6}$$ 
+
+",5,5.NBT.2,MCAS,2
+"The value of the 7 in 27,459 is how many times the value of the 7 in 40,735? 
+",5,5.NBT.1,MCAS,2
+"This picture shows some of the streets in Nathan’s neighborhood. 
+y2017_grade4_q4_img_1.png 
+Which of the following best represents two streets that are perpendicular? 
+ A Elm St. and Oak St. 
+ B Elm St. and Aspen St. 
+ C Oak St. and Pine St. 
+ D Pine St. and Aspen St. 
+
+",4,4.G.1,MCAS,1
+"Ken created a care package to send to his brother, who was away at boarding school.  Ken placed a box on a scale, and then he poured into the box enough jelly beans to bring the weight to 2 pounds.  Then, he added enough brownies to cause the weight to triple.  Next, he added another 2 pounds of jelly beans.  And finally, he added enough gummy worms to double the weight once again.  What was the final weight of the box of goodies, in pounds?",3,"['3.OA.A.3', '1.OA.A.1']",GSM8K-TRAIN,0
+"Which of the following number lines best represents all the solutions of the inequality $$x < 4$$? 
+ A y2016_grade6_q2_img_1.png 
+ B y2016_grade6_q2_img_2.png 
+ C y2016_grade6_q2_img_3.png 
+ D y2016_grade6_q2_img_4.png 
+
+",6,6.EE.8,MCAS,3
+"Tom used 1-centimeter blocks to build a cube, as shown below. 
+y2015_grade5_q19_img_1.png 
+What is the volume, in cubic centimeters, of the cube Tom built? 
+",5,5.MD.4,MCAS,2
+"Which fraction is less than $$ \frac{1}{2} $$ ? 
+ A $$ \frac{6}{12} $$ 
+ B $$ \frac{5}{8} $$ 
+ C $$ \frac{4}{6} $$ 
+ D $$ \frac{2}{5} $$ 
+
+",4,4.NF.2,MCAS,1
+"A construction team uses 184 sheets of plywood for each house it builds. The team will build 12 houses this year. 
+What is the total number of sheets of plywood the team will use to build all 12 houses? 
+",5,5.NBT.5,MCAS,2
+"The diagram below shows some model airplanes and some model ships. 
+y2016_grade6_q1_img_1.png 
+What is the ratio of the number of model airplanes to the number of model ships? 
+ A 8 : 3 
+ B 5 : 3 
+ C 3 : 8 
+ D 3 : 5 
+
+",6,6.RP.1,MCAS,3
+"The shape below has a total area of 1 square unit. The shape is divided into equal parts. One part of the shape is shaded. 
+y2015_grade3_q15_img_1.png 
+What is the area, in square units, of the shaded part of the shape? Write your answer as a fraction in the Answer Box below. 
+Answer Box y2015_grade3_q15_img_2.png 
+",3,3.G.2,MCAS,0
+"Victor wants to estimate the sum of this expression. 
+$$ 24.8 + 26.82 + 24.3 + 25.7 $$ 
+Which of the following is closest in value to the sum? 
+ A $$ 4 \times 20 $$ 
+ B $$ 4 \times 25 $$ 
+ C $$ 4 \times 30 $$ 
+ D $$ 3 \times 25 $$ 
+
+",5,5.NBT.4,MCAS,2
+"A diagram of Parvati’s garden and the lengths of all its sides are shown below. 
+Parvati’s Garden y2016_grade4_q20_img_1.png 
+Parvati wants to put a fence around her whole garden. What is the least number of yards of fence she will need? 
+ A 24 yards 
+ B 28 yards 
+ C 36 yards 
+ D 48 yards 
+
+",4,4.MD.3,MCAS,1
+"What is the missing number that makes the number sentence below true? 
+$$165 + \boxed{?} = 214$$ 
+ A 49 
+ B 51 
+ C 169 
+ D 379 
+
+",3,3.NBT.2,MCAS,0
+"Which of the following shapes has exactly two lines of symmetry? 
+ A y2016_grade4_q6_img_1.png 
+ B y2016_grade4_q6_img_2.png 
+ C y2016_grade4_q6_img_3.png 
+ D y2016_grade4_q6_img_4.png 
+
+",4,4.G.3,MCAS,1
+"Zoe recorded the number of hours she worked each day for 5 days. Her data set is shown in the box below. 
+4, 8, 2, 3, 8 
+a. {'element_type': 'text-plain', 'element_value': 'What is the median number of hours Zoe worked for the 5 days? Show or explain how you got your answer.'} 
+b. {'element_type': 'text-plain', 'element_value': 'What is the mean number of hours Zoe worked for the 5 days? Show or explain how you got your answer.'} 
+Lance also recorded the number of hours he worked each day for 5 days. His data set is shown in the box below. 
+2, 2, 3, 5, 8 
+c. {'element_type': 'text-plain', 'element_value': 'Which measure is the same for both Zoe’s and Lance’s data sets: median, mean, or range? Show or explain how you got your answer.'} 
+",6,6.SP.5,MCAS,3
+"The recipe on a box of pancake mix tells how many cups of pancake mix are needed to make different numbers of pancakes, as shown in the table below. 
+Pancake Recipe y2016_grade4_q16_img_1.png 
+Based on the information in the table, how many pancakes can be made with 6 cups of pancake mix? 
+ A 39 
+ B 40 
+ C 46 
+ D 48 
+
+",4,4.OA.5,MCAS,1
+"Eric divided the sum of 5 and 7 by 6. Which of the following is another way to express Eric’s calculations? 
+ A $$\left( 7 \times 6 \right) \div 5$$ 
+ B $$5 \div \left( 7 \times 6 \right)$$ 
+ C $$\left( 7 + 5 \right) \div 6$$ 
+ D $$6 \div \left( 7 + 5 \right)$$ 
+
+",5,5.OA.2,MCAS,2
+"Paloma shaded a circle to model a fraction that is equivalent to $$ \frac{6}{10} $$ . Which of these could be the circle Paloma shaded? 
+ A y2018_grade4_q32_img_1.png 
+ B y2018_grade4_q32_img_2.png 
+ C y2018_grade4_q32_img_3.png 
+ D y2018_grade4_q32_img_4.png 
+
+",4,4.NF.1,MCAS,1
+James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?,4,"['3.OA.A.3', '4.NBT.B.5']",GSM8K-TRAIN,1
+"A circular pool is located in the center of a square park. The park, the pool, and some of their dimensions are shown in the diagram below. 
+Park y2016_grade6_q12_img_1.png 
+a. {'element_type': 'text-plain', 'element_value': 'What is the radius, in yards, of the pool? Show or explain how you got your answer.'} 
+b. {'element_type': 'text+math_expression', 'element_value': 'What is the circumference, in yards, of the pool? Show or explain how you got your answer. (Use 3.14 for $$\\pi$$.)'} 
+c. {'element_type': 'text+math_expression', 'element_value': 'What is the area, in square yards, of the pool? Show or explain how you got your answer. (Use 3.14 for $$\\pi$$.)'} 
+The ground in the park surrounding the pool is covered with grass. 
+d. {'element_type': 'text-plain', 'element_value': 'What is the total area, in square yards, of the ground in the park that is covered with grass? Show or explain how you got your answer.'} 
+",6,6.G.1,MCAS,3
+"What is the value of this expression? 
+$$ 4 \times \left(10 − 2 \right) $$ 
+ A 32 
+ B 38 
+ C 40 
+ D 48 
+
+",5,5.OA.1,MCAS,2
+"A food company packages flavor cubes used for making soup. The flavor cubes are packaged in a box that is in the shape of a rectangular prism. 
+ 2_1 Each flavor cube has an edge length of 1 centimeter. 
+ 2_2 Each box holds exactly 2 layers of flavor cubes with no gaps or spaces. 
+ 2_3 Each layer in the box holds 9 flavor cubes. 
+
+What is the volume of one box of flavor cubes? 
+ A 12 cubic centimeters 
+ B 13 cubic centimeters 
+ C 18 cubic centimeters 
+ D 19 cubic centimeters 
+
+",5,5.MD.3,MCAS,2
+"Abigail and Casey each ordered a pizza for lunch. Both pizzas were the same size. The pizzas could be cut into either 2, 4, 6, or 8 equal pieces. 
+a. {'element_type': 'text-plain', 'element_value': 'Abigail ordered her pizza cut so that each piece had the smallest possible area. What fraction of Abigail’s whole pizza is one piece?'} 
+b. {'element_type': 'text+math_expression', 'element_value': 'Casey ordered his pizza cut so that it had half as many pieces as Abigail’s pizza. Write a number sentence to compare a fraction that represents one piece of Casey’s pizza and a fraction that represents one piece of Abigail’s pizza. Use $$>$$, $$<$$, or $$=$$ in your number sentence.'} 
+",3,3.NF.3,MCAS,0
+"What is the value of this expression? 
+$$ 6 \times \left( 11 − 8 \right) − 3 $$ 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",5,5.OA.1,MCAS,2
+"Camila counted by 8s starting at 0. 
+Which of these statements is true? 
+ A All of the numbers Camila counted were odd. 
+ B All of the numbers Camila counted were even. 
+ C All of the numbers Camila counted ended in 2, 4, or 8. 
+ D Some of the numbers Camila counted were even, and some were odd. 
+
+",3,3.OA.9,MCAS,0
+"Which expression is equal to $$ \frac{8}{2} $$ ? 
+ A $$ 2 + \frac{1}{8} $$ 
+ B $$ 2 \times \frac{1}{8} $$ 
+ C $$ 8 + \frac{1}{2} $$ 
+ D $$ 8 \times \frac{1}{2} $$ 
+
+",4,4.NF.4,MCAS,1
+"Ms. Nelson needs $$5\frac{1}{2}$$ yards of fabric to make 2 identical dresses. How much fabric is needed to make each dress? 
+ A $$2\frac{3}{4}$$ yards 
+ B $$2\frac{7}{8}$$ yards 
+ C 3 yards 
+ D 11 yards 
+
+",6,6.NS.1,MCAS,3
+"A decimal number is missing from the number sentence below. 
+$$0.24 \gt \boxed{?}$$ 
+Which of the following represents a decimal number that belongs in the to make the $$\boxed{?}$$ number sentence true? 
+ A y2015_grade4_q11_img_1.png 
+ B y2015_grade4_q11_img_2.png 
+ C y2015_grade4_q11_img_3.png 
+ D y2015_grade4_q11_img_4.png 
+
+",4,4.NF.7,MCAS,1
+"Which of these is a right triangle? 
+ A y2016_grade4_q15_img_1.png 
+ B y2016_grade4_q15_img_2.png 
+ C y2016_grade4_q15_img_3.png 
+ D y2016_grade4_q15_img_4.png 
+
+",4,4.G.2,MCAS,1
+"Jackie’s piano lesson starts at the time shown on this clock. 
+y2018_grade3_q21_img_1.png 
+Which clock also shows the time Jackie’s piano lesson starts? 
+ A y2018_grade3_q21_img_2.png 
+ B y2018_grade3_q21_img_3.png 
+ C y2018_grade3_q21_img_4.png 
+ D y2018_grade3_q21_img_5.png 
+
+",3,3.MD.1,MCAS,0

@@ -1,0 +1,231 @@
+Question,Grade applied,KCs applied,Source,label
+"Chas drew a number line to show equal fractions, as shown below. 
+y2016_grade3_q3_img_1.png 
+Chas will write a fraction equal to $$\frac{1}{2}$$ to replace the $$\bigstar$$. Which of these fractions should he write to replace the $$\bigstar$$? 
+ A $$\frac{1}{6}$$ 
+ B $$\frac{2}{6}$$ 
+ C $$\frac{3}{6}$$ 
+ D $$\frac{4}{6}$$ 
+
+",3,3.NF.3,MCAS,0
+"Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",3,"['3.OA.A.3', '2.OA.A.1']",GSM8K-TRAIN,0
+"Which of the following rectangles is shown with all of its lines of symmetry? 
+ A y2017_grade4_q3_img_1.png 
+ B y2017_grade4_q3_img_2.png 
+ C y2017_grade4_q3_img_3.png 
+ D y2017_grade4_q3_img_4.png 
+
+",4,4.G.3,MCAS,1
+"Diane has the four number cards shown below. 
+y2015_grade4_q3_img_1.png 
+Diane used two of her cards to make a two-digit number that is a multiple of 4. What could be the number Diane made? 
+",4,4.OA.4,MCAS,1
+"A figure is built out of 9 cubes, as shown. 
+y2018_grade6_q24_img_1.png 
+The edge length of each cube is $$ \frac{1}{2} $$ foot. What is the volume of the figure? 
+ A $$ 1 \frac{1}{8} $$ cubic feet 
+ B $$ 2 \frac{1}{4} $$ cubic feet 
+ C $$ 3 \frac{1}{2} $$ cubic feet 
+ D $$ 4 \frac{1}{2} $$ cubic feet 
+
+",6,6.G.2,MCAS,3
+"Consider this inequality. 
+$$ 2x + 5.5 < 20 $$ 
+Select two values of x that would make the inequality true. 
+ A $$ \frac{9}{4} $$ 
+ B $$ \frac{19}{2} $$ 
+ C 5 
+ D 7.25 
+ E 8.5 
+
+",6,6.EE.5,MCAS,3
+"Julie uses 4 green beads and 6 blue beads in each bracelet she makes. What is the total number of green beads Julie will use when she uses 24 blue beads? 
+ A 6 
+ B 10 
+ C 12 
+ D 16 
+
+",5,5.OA.3,MCAS,2
+"Which of the following numbers best represents the location of point P on the number line below? 
+y2015_grade6_q13_img_1.png 
+ A $$-1\frac{1}{3}$$ 
+ B $$-1\frac{2}{3}$$ 
+ C $$-2\frac{1}{3}$$ 
+ D $$-2\frac{2}{3}$$ 
+
+",6,6.NS.6,MCAS,3
+"Amal wrote the expression shown below. 
+$$5 \times \frac{4}{3}$$ 
+Which of the following statements about the value of Amal’s expression is true? 
+ A The value is between 6 and 7. 
+ B The value is between 5 and 6. 
+ C The value is between 4 and 5. 
+ D The value is between 3 and 4. 
+
+",5,5.NF.5,MCAS,2
+"40% of the mosquitos in Jack's area are infected with malaria. 20% of the mosquitos are infected with Zika virus. Without a vaccine, the chances of getting infected with either virus after getting bitten by an infected mosquito are 50%. Jack is taking an experimental malaria vaccine that reduces the chances of getting infected after getting bitten by 50%. If Jack gets bitten by a random mosquito, what is the percentage chance he catches either Zika virus or malaria?",6,['6.RP.A.3'],GSM8K-TRAIN,3
+"Which pair of equations are related facts? 
+ A $$54 \div 6 = n and 6 \times n = 54$$ 
+ B $$54 \div n = 6 and 54 + 6 = n$$ 
+ C $$n \div 2 = 12 and 12 - n = 2$$ 
+ D $$2 \div 12 = n and n \times 2 = 12$$ 
+
+",3,3.OA.6,MCAS,0
+"When rounded to the nearest thousand, the number of people who attended a concert is 18,000. 
+Which of the following could be the number of people who attended the concert? 
+ A 17,264 
+ B 17,428 
+ C 18,135 
+ D 18,526 
+
+",4,4.NBT.3,MCAS,1
+"In which of these patterns is the next number an odd number? 
+ A 2, 4, 6, 8, . . . 
+ B 7, 12, 17, 22, . . . 
+ C 18, 15, 12, 9, . . . 
+ D 24, 20, 16, 12, . . . 
+
+",3,3.OA.9,MCAS,0
+"This model shows that $$ \frac{4}{6} $$ of the figure is shaded. 
+y2017_grade3_q11_img_1.png 
+Which of these fractions is equal to $$ \frac{4}{6} $$ ? 
+ A $$ \frac{2}{3} $$ 
+ B $$ \frac{3}{4} $$ 
+ C $$ \frac{6}{4} $$ 
+ D $$ \frac{2}{6} $$ 
+
+",3,3.NF.3,MCAS,0
+"Darlene has 16 toy spiders. She has one-half as many toy beetles as she has toy spiders. 
+Which of the following equations can be used to find b, the total number of toy beetles Darlene has? 
+ A $$16 - 2 = b$$ 
+ B $$16 \div 2 = b$$ 
+ C $$16 - \frac{1}{2} = b$$ 
+ D $$16 \div \frac{1}{2} = b$$ 
+
+",4,4.OA.2,MCAS,1
+"Ling earns $12 each time he shovels his neighbor’s driveway. He earned a total of $108 shoveling the driveway last winter. Which of the following equations could be used to find w, the number of times Ling shoveled his neighbor’s driveway last winter? 
+ A $$ 108w = 12 $$ 
+ B $$ 12w = 108 $$ 
+ C $$ w + 12 = 108 $$ 
+ D $$ 108 + w = 12 $$ 
+
+",6,6.EE.7,MCAS,3
+"Which of the following is closest to the circumference, in inches, of a circle with a diameter of 5 inches? (Use 3.14 for $$\pi$$.) 
+ A 15.7 inches 
+ B 19.6 inches 
+ C 31.4 inches 
+ D 78.5 inches 
+
+",6,6.G.1,MCAS,3
+"Ms. Garcia wrote the sentence shown in the box below. 
+There are 8 students, and each student has 4 books. 
+Which of these can be used to find the total number of books? 
+ A $$8 \times 4$$ 
+ B $$8 - 4$$ 
+ C $$8 + 4$$ 
+ D $$8 \div 4$$ 
+
+",3,3.OA.1,MCAS,0
+"While sorting some buttons, Malia put 1 button in the first box, 3 buttons in the second box, 9 buttons in the third box, 27 buttons in the fourth box, and 81 buttons in the fifth box. If this pattern continues, how many buttons will Malia put in the sixth box?",3,['3.OA.D.9'],ASDiv,0
+"A rectangular prism is shown below. 
+ 2_1 The volume is 96 cubic centimeters. 
+ 2_2 The height is 6 centimeters. 
+ 2_3 The width is 2 centimeters. 
+
+y2015_grade5_q14_img_1.png 
+What is the length of the rectangular prism? 
+ A 6 cm 
+ B 8 cm 
+ C 12 cm 
+ D 32 cm 
+
+",5,5.MD.5,MCAS,2
+"Matt drew an obtuse isosceles triangle. Which of the following could be Matt’s triangle? 
+ A y2015_grade5_q21_img_1.png 
+ B y2015_grade5_q21_img_2.png 
+ C y2015_grade5_q21_img_3.png 
+ D y2015_grade5_q21_img_4.png 
+
+",5,5.G.4,MCAS,2
+"Verndale had a total of 40.5 inches of rain this year. This year’s total was 2.62 inches greater than last year’s total. 
+What was the total amount of rain that Verndale had last year? 
+ A 1.43 inches 
+ B 2.63 inches 
+ C 37.88 inches 
+ D 38.12 inches 
+
+",5,5.NBT.7,MCAS,2
+"This table shows the number of people who went to the school play on three different days. 
+School Play y2017_grade3_q2_img_1.png 
+Part A 
+Round to the nearest ten the number of people who went to the school play on each of the three days. Show or explain how you got each of your answers. 
+Enter your answers and your work or explanation in the space provided. 
+Part B 
+Isaac is rounding the three numbers in the table to the nearest hundred. He thinks two of the numbers will be the same after they are rounded. Show or explain why Isaac’s reasoning is correct. 
+Enter your work or explanation in the space provided. 
+",3,3.NBT.1,MCAS,0
+"Wendy plotted points J and K on a coordinate plane, as shown. 
+y2018_grade6_q18_img_1.png 
+Wendy will plot point L so that when connected, points J, K, and L will form a right triangle. Which of the following could be the location of point L? 
+ A $$ \left( −7, 1 \right) $$ 
+ B $$ \left( −1, 7 \right) $$ 
+ C $$ \left( 2, 4 \right) $$ 
+ D $$ \left( 4, 2 \right) $$ 
+
+",6,6.G.3,MCAS,3
+"Raul plotted point A, point B, point C, and point D on a grid, as shown. 
+y2017_grade5_q3_img_1.png 
+Which of Raul’s points is best represented by the ordered pair $$ \left( 3, 0 \right) $$ ? 
+ A point A 
+ B point B 
+ C point C 
+ D point D 
+
+",5,5.G.1,MCAS,2
+"The ordered pair (4, 7) gives the location of a point on the coordinate plane. What is the first step to take in locating the point? 
+ A Starting at the origin, move 4 units to the right. 
+ B Starting at the origin, move 4 units to the left. 
+ C Starting at the origin, move 4 units up. 
+ D Starting at the origin, move 4 units down. 
+
+",5,5.G.1,MCAS,2
+"Silvia filled a watering can with 3.48 liters of water. She used 40 milliliters to water her cactus plant and 150 milliliters to water her rose plant. What is the total amount of water remaining in the watering can? 
+ A 158 milliliters 
+ B 329 milliliters 
+ C 1,580 milliliters 
+ D 3,290 milliliters 
+
+",5,5.MD.1,MCAS,2
+"This question has three parts. 
+At the grand opening of a store, the owner gave away stickers and T-shirts to some of the customers. 
+ 3_1 A total of 180 customers visited the store at the grand opening. 
+ 3_2 Every 10th customer received a free sticker. 
+ 3_3 Every 25th customer received a free T-shirt. 
+
+Part A 
+What is the total number of customers who received a free sticker? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+What is the total number of customers who received a free T-shirt? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part C 
+What is the total number of customers who received both a free sticker and a free T-shirt? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",6,6.NS.4,MCAS,3
+"Which of these sentences matches the expression in the box below? 
+$$30 \div 6$$ 
+ A There are 30 students in Ms. Hall’s class, and 6 students are not in class. 
+ B There are 30 students in Ms. Hall’s class, and 6 new students join the class. 
+ C There are 30 students in Ms. Hall’s class, and the students are in 6 equal groups. 
+ D There are 30 students in Ms. Hall’s class, and each student brings in 6 plastic bottles. 
+
+",3,3.OA.2,MCAS,0
+"Kendall drew a 100° angle from the center of a circle, as shown below. 
+y2016_grade4_q9_img_1.png 
+What fraction of the circle does Kendall’s angle turn through? 
+ A $$\frac{100}{360}$$ 
+ B $$\frac{100}{260}$$ 
+ C $$\frac{100}{180}$$ 
+ D $$\frac{100}{90}$$ 
+
+",4,4.MD.5,MCAS,1

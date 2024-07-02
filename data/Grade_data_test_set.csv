@@ -1,0 +1,229 @@
+Question,Grade applied,KCs applied,Source,label
+"A scale rounds the weights of objects to the nearest tenth of a pound. What is 53.864 pounds rounded to the nearest tenth of a pound? 
+ A 53.8 pounds 
+ B 53.9 pounds 
+ C 53.86 pounds 
+ D 53.87 pounds 
+
+",5,5.NBT.4,MCAS,2
+"Which of the following is equivalent to the expression below? 
+$$3 \times 3 \times 3 \times 3$$ 
+ A $$3^{3}$$ 
+ B $$3^{4}$$ 
+ C $$4^{3}$$ 
+ D $$4 \times 3$$ 
+
+",6,6.EE.1,MCAS,3
+"A pumpkin patch has a width of 432 inches. What is the width of the pumpkin patch in yards? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",6,6.RP.3,MCAS,3
+Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours. How much money did Dave make in those two days?,3,"['3.OA.A.3', 'K.OA.A.2']",ASDiv,0
+"The shopkeeper at a seafood store measured the weight, in pounds, of each fish sold to each customer. The shopkeeper recorded the data on this line plot. 
+Weight of Fish
+(pounds) y2018_grade4_q31_img_1.png 
+Based on the line plot, what was the difference between the weight of the heaviest fish sold and the weight of the lightest fish sold? 
+ A $$ \frac{3}{4} $$ pound 
+ B $$ 2 \frac{1}{4} $$ pounds 
+ C $$ 2 \frac{3}{4} $$ pounds 
+ D $$ 3 \frac{1}{4} $$ pounds 
+
+",4,4.MD.4,MCAS,1
+"The model below can be used to find the product of $$\frac{2}{3} \times \frac{1}{4}$$. 
+y2015_grade5_q16_img_1.png 
+What is the product of $$\frac{2}{3} \times \frac{1}{4}$$? 
+ A $$\frac{2}{9}$$ 
+ B $$\frac{3}{9}$$ 
+ C $$\frac{2}{12}$$ 
+ D $$\frac{9}{12}$$ 
+
+",5,5.NF.4,MCAS,2
+"Kara is painting flowerpots. She uses $$\frac{1}{3}$$ cup of paint for each flowerpot. 
+a. {'element_type': 'text-plain', 'element_value': 'How many cups of paint does Kara use for 2 flowerpots? Show or explain how you got your answer.'} 
+b. {'element_type': 'text-plain', 'element_value': 'How many cups of paint does Kara use for 12 flowerpots? Show or explain how you got your answer.'} 
+After the flowerpots dry, Kara plants seeds in them. She uses $$1\frac{3}{4}$$ cups of soil to fill each flowerpot. 
+c. {'element_type': 'text-plain', 'element_value': 'How many cups of soil does Kara use to fill 12 flowerpots? Show or explain how you got your answer.'} 
+",5,5.NF.4,MCAS,2
+"Phil spent $$ \frac{2}{5} $$ of an hour riding his bicycle and $$ \frac{1}{3} $$ of an hour practicing the piano. What is the total amount of time, in hours, Phil spent riding his bicycle and practicing the piano? 
+ A $$ \frac{3}{8} $$ 
+ B $$ \frac{3}{15} $$ 
+ C $$ \frac{8}{15} $$ 
+ D $$ \frac{11}{15} $$ 
+
+",5,5.NF.2,MCAS,2
+"Terry is making meatballs for a family dinner. He needs ground turkey and ground beef to make the meatballs. 
+Ground turkey costs $4.50 per pound. Terry buys 2.6 pounds of ground turkey. 
+a. {'element_type': 'number+text', 'element_value': 'What is the total cost, in dollars, for 2.6 pounds of ground turkey? Show or explain how you got your answer.'} 
+Terry needs 5.5 pounds of ground beef to make the meatballs. He has 2.75 pounds of ground beef at home. 
+b. {'element_type': 'text-plain', 'element_value': 'What is the total number of pounds of ground beef that Terry needs to buy? Show or explain how you got your answer.'} 
+Terry has a total of 8.1 pounds of meat to make meatballs. He will use 0.3 pound of meat to make each meatball. 
+c. {'element_type': 'number+text', 'element_value': 'What is the total number of 0.3-pound meatballs Terry can make with 8.1 pounds of meat? Show or explain how you got your answer.'} 
+",5,5.NBT.7,MCAS,2
+"This coordinate plane shows the location of the city hall. 
+y2018_grade5_q22_img_1.png 
+Which ordered pair represents the location on the coordinate plane of the city hall? 
+ A $$ \left( 3, 4 \right) $$ 
+ B $$ \left( 4, 3 \right) $$ 
+ C $$ \left( 4, 0 \right) $$ 
+ D $$ \left( 0, 3 \right) $$ 
+
+",5,5.G.2,MCAS,2
+"Jean needs $$2\frac{1}{2}$$ cups of flour to make sugar cookies and $$3\frac{1}{4}$$ cups of flour to make peanut butter cookies. 
+What is the total number of cups of flour that Jean will need to make both kinds of cookies? 
+ A $$5\frac{2}{6}$$ 
+ B $$5\frac{3}{4}$$ 
+ C $$6\frac{2}{6}$$ 
+ D $$6\frac{3}{4}$$ 
+
+",5,5.NF.2,MCAS,2
+"Carl sold cookies and pies at a bake sale to earn money. 
+ 2_1 A bag of cookies sells for $3. 
+ 2_2 A pie sells for $8. 
+
+a. {'element_type': 'number+text', 'element_value': 'Carl sold 4 bags of cookies and 2 pies during the first hour of the bake sale. What is the total amount of money, in dollars, Carl earned during the first hour of the bake sale? Show or explain how you got your answer.'} 
+b. {'element_type': 'number+text', 'element_value': 'Ms. O’Hara bought 2 bags of cookies and 1 pie from Carl. She paid with a $20 bill. What is the total amount of change, in dollars, Ms. O’Hara should receive? Show or explain how you got your answer.'} 
+Vanessa sold cakes at the same bake sale. 
+c. {'element_type': 'number+text', 'element_value': 'Mr. Stanley bought 1 bag of cookies and 2 pies from Carl. Mr. Stanley also spent $11 to buy a cake from Vanessa at the bake sale. Write an equation to show m, the total amount of money, in dollars, Mr. Stanley spent at the bake sale.'} 
+d. {'element_type': 'text-plain', 'element_value': 'Solve the equation you wrote in part (c) to find the total amount of money, in dollars, Mr. Stanley spent at the bake sale. Show your work.'} 
+",4,4.OA.3,MCAS,1
+"Use the 1-inch tiles from your tool kit to answer question 8. 
+Hannah drew the shape shown below. 
+y2015_grade3_q8_img_1.png 
+What is the area of the shape Hannah drew? 
+ A 5 square inches 
+ B 6 square inches 
+ C 10 square inches 
+ D 12 square inches 
+
+",3,3.MD.6,MCAS,0
+"In your Student Answer Booklet, draw an angle that measures 180°. 
+",4,4.MD.6,MCAS,1
+"Which of the following is always true about an isosceles triangle? 
+ A The sum of its angles is 100°. 
+ B It cannot contain a right angle. 
+ C Two of its sides must be congruent. 
+ D All three of its angles must be congruent. 
+
+",5,5.G.4,MCAS,2
+"During art class last week, Carmen put crayons into cups for her art teacher. She put exactly 9 crayons into each cup. 
+Altogether, Carmen put more than 20 crayons, but fewer than 30 crayons, into the cups. 
+Part A 
+What is the total number of crayons that Carmen put into the cups? Explain your reasoning. 
+Enter your answer and your explanation in the space provided. 
+Part B 
+Is your answer to Part A a prime number or a composite number? Explain your reasoning. 
+Enter your answer and your explanation in the space provided. 
+Part C 
+This week, Carmen’s art teacher has a total of 28 crayons to put into cups. She wants Carmen to put the same number of crayons into each cup. 
+Write all the factor pairs of 28 that show possible ways Carmen can divide 28 crayons equally to put into cups. 
+Enter your answer in the space provided. 
+",4,4.OA.4,MCAS,1
+"This question has three parts. 
+Caleb planted a pear tree that was 227 centimeters tall and an apple tree that was 186 centimeters tall. 
+Part A 
+How much taller, in centimeters, was the pear tree than the apple tree when the trees were planted? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+Write an addition equation to model the problem in Part A. 
+Enter your equation in the space provided. 
+Part C 
+The apple tree was 186 centimeters tall when it was planted. During the first year, it grew 19 centimeters. 
+What was the height, in centimeters, of the apple tree at the end of the first year? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",3,3.NBT.2,MCAS,0
+Find the remainder when the sum \\[75+76+77+78+79+80+81+82\\]is divided by 16,4,['4.OA.A.3'],GSM8K-TRAIN,1
+"Four friends used chocolate to make candy. 
+ 2_1 Mari used $$ \frac{1}{2} $$ pound of chocolate. 
+ 2_2 Lois used $$ \frac{1}{6} $$ pound of chocolate. 
+ 2_3 Carolina used $$ \frac{1}{3} $$ pound of chocolate. 
+ 2_4 Evelyn used $$ \frac{1}{4} $$ pound of chocolate. 
+
+Who used the greatest amount of chocolate? 
+ A Mari 
+ B Lois 
+ C Carolina 
+ D Evelyn 
+
+",3,3.NF.3,MCAS,0
+"Use your MCAS ruler to answer question 8. 
+A rectangle is shown below. 
+y2016_grade3_q8_img_1.png 
+What is the perimeter, in centimeters, of the rectangle? 
+ A 8 centimeters 
+ B 10 centimeters 
+ C 15 centimeters 
+ D 16 centimeters 
+
+",3,3.MD.8,MCAS,0
+"There are 6 children on a bus. Each child is wearing a hat. 
+What fraction of the children on the bus are wearing a hat? Write your answer in the Answer Box below. 
+Answer Box y2016_grade3_q11_img_1.png 
+",3,3.NF.3,MCAS,0
+"Which of these is equal to the expression below? 
+$$8 \times 6$$ 
+ A $$(5 \times 3) \times 6$$ 
+ B $$(5 \times 3) + 6$$ 
+ C $$(5 + 3) + 6$$ 
+ D $$(5 + 3) \times 6$$ 
+
+",3,3.OA.5,MCAS,0
+"The fraction $$\frac{1}{2}$$ is shaded on the fraction model below. 
+y2015_grade4_q4_img_1.png 
+Write two different fractions that are each equivalent to $$\frac{1}{2}$$. 
+",4,4.NF.1,MCAS,1
+"Jin had 60 stickers in her collection. 
+She gave $$\frac{3}{5}$$ of the stickers to her friend. 
+How many stickers did Jin give to her friend? 
+ A 12 
+ B 20 
+ C 36 
+ D 40 
+
+",5,5.NF.6,MCAS,2
+Find the area in square feet of a square with a perimeter of 32ft,3,"['3.MD.C.5.b', '3.G.A.1', '3.MD.D.8']",GSM8K-TRAIN,0
+"This figure is made up of two right rectangular prisms. 
+y2018_grade5_q9_img_1.png 
+What is the total volume, in cubic feet, of the figure? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",5,5.MD.5,MCAS,2
+"This question has three parts. 
+A group of friends played a computer game. 
+ 3_1 Jordan scored two hundred sixteen thousand, forty-five points. 
+ 3_2 Madison scored 210,634 points. 
+
+Part A 
+Write the number of points Jordan scored in standard form. 
+Enter your answer in the space provided. 
+Part B 
+Write the number of points Madison scored in expanded form. 
+Enter your answer in the space provided. 
+Part C 
+Hannah also played the computer game. 
+ 12_1 She scored more than 215,000 points. 
+ 12_2 She scored fewer points than Jordan. 
+ 12_3 Her score has the same six digits as Madison’s score, but she did not have the same score as Madison. 
+
+Write a number sentence using <, >, or = to compare the number of points Madison scored to the number of points Hannah could have scored. Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",4,4.NBT.2,MCAS,1
+"Which of these equations is true when $$q = 8$$? 
+ A $$2 \times q = 4$$ 
+ B $$2 \times q = 16$$ 
+ C $$6 \div q = 2$$ 
+ D $$12 \div q = 4$$ 
+
+",3,3.OA.4,MCAS,0
+"This question has three parts. 
+Kevin is cutting oranges and apples into smaller pieces. 
+Part A 
+Kevin cuts each orange into fourths. He has already cut 12 fourths. 
+How many oranges has Kevin cut so far? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part B 
+Altogether, Kevin will have cut 8 oranges into fourths. 
+How many fourths will Kevin have cut in all? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+Part C 
+Kevin has 8 apples. He will cut each apple into sixths. 
+Will Kevin have more orange pieces or apple pieces? Show or explain how you got your answer. 
+Enter your answer and your work or explanation in the space provided. 
+",3,3.NF.1,MCAS,0
