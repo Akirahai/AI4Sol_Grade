@@ -34,7 +34,7 @@ import numpy as np
 #     predictions = np.argmax(predictions, axis=1)
 #     return accuracy.compute(predictions=predictions, references=labels) 
 
-def compute_metrics(eval_pred: EvalPrediction):
+def compute_metrics(eval_pred):
     predictions, labels = eval_pred
     
     # Debugging lines to understand the structure
