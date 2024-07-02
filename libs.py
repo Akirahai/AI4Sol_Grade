@@ -19,8 +19,6 @@ from tabulate import tabulate
 
 import datetime
 
-import evaluate
-
 accuracy = evaluate.load("accuracy")
 
 

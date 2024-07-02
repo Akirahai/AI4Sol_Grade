@@ -43,6 +43,23 @@ if __name__== "__main__":
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     
+    # Training setup
+    training_args = TrainingArguments(
+    output_dir = args.path,
+    learning_rate = args.lr,
+    per_device_train_batch_size=args.batch_size,
+    per_device_eval_batch_size=args.batch_size,
+    num_train_epochs=args.epochs,
+    weight_decay=0.01,
+    )
+
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        tokenizer=tokenizer,
+        data_collator=data_collator,
+        compute_metrics=compute_metrics,
+    )
 
     if args.phase == 'train':
         
@@ -51,8 +68,10 @@ if __name__== "__main__":
         # Save the trained model with timestamp prefix
         model_output_dir = os.path.join(args.path, args.model, current_time)
         
-        model.save_pretrained(model_output_dir)
-        tokenizer.save_pretrained(model_output_dir)
+        # model.save_pretrained(model_output_dir)
+        # tokenizer.save_pretrained(model_output_dir)
+        
+        trainer.save_model(model_output_dir)
         
         print(f"Model saved to {model_output_dir}")
     

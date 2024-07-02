@@ -17,7 +17,7 @@ def parse_args():
     parser.add_argument('--epochs', type=int, default=50, help='Training epochs')
     parser.add_argument('--resume', default=False, action='store_true', help='Resume')
     parser.add_argument('--use-gpu', action='store_true', help='Use GPU')
-    parser.add_argument('--model', type=str, default='distilbert/distilbert-base-uncased', help='Model name')
+    parser.add_argument('--model', type=str, help='Model name or path')
     parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/result") #Fix to your path to save model
     parser.add_argument('--gpu', type=int, default=1, help='GPU device')
     
@@ -101,8 +101,10 @@ if __name__== "__main__":
         # Save the trained model with timestamp prefix
         model_output_dir = os.path.join(args.path, args.model, current_time)
         
-        model.save_pretrained(model_output_dir)
-        tokenizer.save_pretrained(model_output_dir)
+        # model.save_pretrained(model_output_dir)
+        # tokenizer.save_pretrained(model_output_dir)
+        
+        trainer.save_model(model_output_dir)
         
         print(f"Model saved to {model_output_dir}")
         
@@ -111,6 +113,8 @@ if __name__== "__main__":
         print(eval_results)
     
     elif args.phase == 'test':
-        pass
+        print("Evaluation on test set...")
+        eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['test'])
+        print(eval_results)
 
     
