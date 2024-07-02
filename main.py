@@ -48,7 +48,7 @@ if __name__== "__main__":
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     
-    def preprocess_function(example):
+    def preprocess_function(examples):
         start_prompt = """
         You are a professional teacher adhering to the Common Core standards, teaching Mathematics to students from Grade 1 to Grade 6. 
         Your task is to identify the minimum grade level required to answer the given question.
@@ -56,10 +56,8 @@ if __name__== "__main__":
         Question:
         """
         end_prompt = '\n\nGrade classification: '
-        prompt = [start_prompt + question + end_prompt for question in example["Question"]]
-        example['input_ids'] = tokenizer(prompt, padding="max_length", truncation=True, return_tensors="pt").input_ids
-        example['attention_mask'] = tokenizer(prompt, padding="max_length", truncation=True, return_tensors="pt").attention_mask
-        return example
+        prompts = [start_prompt + question + end_prompt for question in examples["Question"]]
+        return tokenizer(prompts, padding="max_length", truncation=True)
     
     # def preprocess_function(examples):
     #     return tokenizer(examples["Question"], truncation=True)
@@ -67,7 +65,9 @@ if __name__== "__main__":
     
     # Split data
     train_testvalid = dataset.train_test_split(test_size=0.1, seed=args.seed)
+    
     test_valid = train_testvalid['test'].train_test_split(test_size=0.5, seed=args.seed)
+    
     train_test_valid_dataset = DatasetDict({
         'train': train_testvalid['train'],
         'test': test_valid['test'],
