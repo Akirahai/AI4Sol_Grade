@@ -19,6 +19,10 @@ from tabulate import tabulate
 
 import datetime
 
+import evaluate
+
+accuracy = evaluate.load("accuracy")
+
 
 id2label = {0: '3', 1: '4', 2: '5', 3: '6'}
 label2id = {'3': 0, '4': 1, '5': 2, '6': 3}
