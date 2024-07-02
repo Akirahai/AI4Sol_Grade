@@ -37,9 +37,9 @@ if __name__== "__main__":
     dataset = Dataset.from_pandas(df)
 
     #Login
-    
-    from huggingface_hub import login
-    login()
+    if args.model in ['meta-llama/Llama-2-7b-hf', 'meta-llama/Meta-Llama-3-8B-Instruct']:
+        from huggingface_hub import login
+        login()
     
     # Load model
     model_name=args.model
