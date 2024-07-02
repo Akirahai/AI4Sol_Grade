@@ -50,6 +50,7 @@ if __name__== "__main__":
     tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
+    model.resize_token_embeddings(len(tokenizer))
     # model.config.pad_token_id = model.config.eos_token_id
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     
