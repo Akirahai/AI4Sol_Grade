@@ -20,7 +20,7 @@ def parse_args():
     parser.add_argument('--model', type=str, help='Model name or path')
     parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/result") #Fix to your path to save model
     parser.add_argument('--gpu', type=int, default=1, help='GPU device')
-    parser.add_argument('--eval-on', type=str, default='test', help='Evaluation on test or valid set')
+    parser.add_argument('--eval', type=str, default='test', help='Evaluation on test or valid set')
     
     
     
@@ -120,17 +120,17 @@ if __name__== "__main__":
         print(eval_results)
     
     elif args.phase == 'test':
-        if args.eval-on == 'valid':
+        if args.eval == 'valid':
             print("Evaluation on valid set...")
             eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['valid'])
             print(eval_results)
             
-        elif args.eval-on == 'test':
+        elif args.eval == 'test':
             print("Evaluation on test set...")
             eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['test'])
             print(eval_results)
             
-        elif args.eval-on == 'train':
+        elif args.eval == 'train':
             print("Evaluation on train set...")
             eval_results = trainer.evaluate(eval_dataset=tokenized_datasets['train'])
             print(eval_results)
