@@ -36,6 +36,11 @@ if __name__== "__main__":
     df = pd.read_csv('data/Grade_data_Train.csv')
     dataset = Dataset.from_pandas(df)
 
+    #Login
+    
+    from huggingface_hub import login
+    login()
+    
     # Load model
     model_name=args.model
     # original_model = AutoModelForSeq2SeqLM.from_pretrained(model_name, torch_dtype=torch.bfloat16)
