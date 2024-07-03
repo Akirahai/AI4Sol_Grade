@@ -9,7 +9,7 @@ evaluate
 tqdm
 tabulate
 argparse
-sci-kit-learn
+scikit-learn
 accelerate
 peft
 flash_attn==2.5.8
