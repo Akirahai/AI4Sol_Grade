@@ -54,6 +54,7 @@ if __name__== "__main__":
     model_name=args.model
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+    tokenizer.pad_token = tokenizer.eos_token
     
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
     model.resize_token_embeddings(len(tokenizer))
