@@ -41,6 +41,8 @@ def compute_metrics(eval_pred):
     print(f"Predictions type: {type(predictions)}")
     print(f"Predictions content: {predictions}")
     
+    print(f"Labels type: {type(labels)}")
+    print(f"Labels content: {labels}")
     if isinstance(predictions, tuple):
         predictions = predictions[0]  # Assuming the first element contains the logits
     
@@ -62,3 +64,13 @@ def compute_metrics(eval_pred):
 
     accuracy = (predictions == labels).mean()
     return {'accuracy': accuracy}
+
+
+def print_number_of_trainable_model_parameters(model):
+    trainable_model_params = 0
+    all_model_params = 0
+    for _, param in model.named_parameters():
+        all_model_params += param.numel()
+        if param.requires_grad:
+            trainable_model_params += param.numel()
+    return f"trainable model parameters: {trainable_model_params}\nall model parameters: {all_model_params}\npercentage of trainable model parameters: {100 * trainable_model_params / all_model_params:.2f}%"
