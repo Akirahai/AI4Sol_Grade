@@ -20,6 +20,7 @@ def parse_args():
     parser.add_argument('--model', type=str, help='Model name or path')
     parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/result") #Fix to your path to save model
     parser.add_argument('--gpu', type=int, default=1, help='GPU device')
+    parser.add_argument('--weight-decay', type=float, default=0.01, help='Weight decay')
     parser.add_argument('--eval', type=str, default='test', help='Evaluation on test or valid set')
     
     
@@ -102,7 +103,7 @@ if __name__== "__main__":
     per_device_train_batch_size=args.batch_size,
     per_device_eval_batch_size=args.batch_size,
     num_train_epochs=args.epochs,
-    weight_decay=0.01,
+    weight_decay=args.weight_decay,
     )
 
     trainer = Trainer(
