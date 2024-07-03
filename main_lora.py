@@ -64,12 +64,18 @@ if __name__== "__main__":
     
     
     # Lora Setup
-    model = BertForSequenceClassification.from_pretrained('bert-base-cased', num_labels=4)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4, id2label=id2label, label2id=label2id)
     
     print('The original model: ')
     print(print_number_of_trainable_model_parameters(model))
+    
     lora_config = LoraConfig(
-    task_type=TaskType.SEQ_CLS, r=1, lora_alpha=1, lora_dropout=0.1)
+        r=32, # Rank
+        lora_alpha=32,
+        lora_dropout=0.05,
+        bias="none",
+        task_type=TaskType.SEQ_CLS
+    )
     model = get_peft_model(model, lora_config)
 
     print('The model after adding Lora: ')
