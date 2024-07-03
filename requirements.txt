@@ -10,5 +10,5 @@ tqdm
 tabulate
 argparse
 sci-kit-learn
-accelerate -U
+accelerate
 peft
