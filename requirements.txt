@@ -12,3 +12,4 @@ argparse
 sci-kit-learn
 accelerate
 peft
+flash_attn==2.5.8
