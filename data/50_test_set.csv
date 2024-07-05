@@ -1,0 +1,514 @@
+Question,label
+"The coach of a soccer team recorded the number of goals the team scored in each game last season. The coach determined the measures of center for the data. 
+Which of the following statistics are measures of center for the data? 
+Select the three correct answers. 
+ A the mean number of goals 
+ B the median number of goals 
+ C the maximum number of goals 
+ D the mode of the number of goals 
+ E the range of the number of goals 
+ F the interquartile range of the number of goals 
+
+",3
+"What is 946 rounded to the nearest hundred? 
+ A 800 
+ B 900 
+ C 950 
+ D 1000 
+
+",0
+James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?,1
+"What is the value of the expression below when $$n = 6$$? 
+$$2n + 3n$$ 
+ A 12 
+ B 18 
+ C 30 
+ D 62 
+
+",3
+"Ms. Shaw has a quilt that is in the shape of a rectangle. The quilt is 7 feet long and 6 feet wide, as shown below. 
+y2015_grade3_q3_img_1.png 
+a. [{'element_id': 'a_1', 'element_type': 'text-plain', 'element_value': 'What is the perimeter, in feet, of Ms. Shaw’s quilt? Show or explain how you got your answer.'}, {'element_id': 'a_2', 'element_type': 'text-answer_with_red_line', 'element_value': 'Perimeter:<<red_line>>feet'}] 
+Ms. Garcia also has a quilt in the shape of a rectangle. Ms. Garcia’s quilt has the same perimeter as Ms. Shaw’s quilt but has a different area. 
+b. [{'element_id': 'b_1', 'element_type': 'text-plain', 'element_value': 'What could be the length and the width, in feet, of Ms. Garcia’s quilt? Show or explain how you got your answer.'}, {'element_id': 'b_2', 'element_type': 'text-answer_with_red_line', 'element_value': 'Length:<<red_line>>feet'}, {'element_id': 'b_3', 'element_type': 'text-answer_with_red_line', 'element_value': 'Width:<<red_line>>feet'}] 
+",0
+"A pet store has 5 fish tanks with 10 fish in each tank. A shopper buys 8 fish and takes them home. 
+After the shopper leaves the store, what is the total number of fish left in the pet store’s tanks? 
+ A 23 
+ B 42 
+ C 50 
+ D 58 
+
+",0
+"The numbers of hours that seven students spent reading are listed in this box. 
+$$ 1 \frac{5}{6} $$, $$ 1 \frac{1}{2} $$, $$ 1 \frac{1}{3} $$, $$ 1 \frac{5}{6} $$, $$ 1 \frac{1}{3} $$, $$ 1 \frac{5}{6} $$, $$ 1 \frac{2}{3} $$ 
+Which of the following line plots shows the number of hours each student spent reading? 
+ A Time Spent Reading y2021_grade5_q6_img_1.png 
+ B Time Spent Reading y2021_grade5_q6_img_2.png 
+ C Time Spent Reading y2021_grade5_q6_img_3.png 
+ D Time Spent Reading y2021_grade5_q6_img_4.png 
+
+",2
+"The 7 children in a family equally shared 4 pizzas. All the pizzas were the same size. Which fraction represents the amount of pizza in each child’s share? 
+ A $$ \frac{4}{7} $$ 
+ B $$ \frac{7}{4} $$ 
+ C $$ 1 \frac{3}{7} $$ 
+ D $$ 1 \frac{4}{7} $$ 
+
+",2
+"Victor wants to estimate the sum of this expression. 
+$$ 24.8 + 26.82 + 24.3 + 25.7 $$ 
+Which of the following is closest in value to the sum? 
+ A $$ 4 \times 20 $$ 
+ B $$ 4 \times 25 $$ 
+ C $$ 4 \times 30 $$ 
+ D $$ 3 \times 25 $$ 
+
+",2
+"What is the value of this expression when $$ n = 5 $$ ? 
+$$ \frac{45}{n} + 10 $$ 
+ A 9 
+ B 11 
+ C 15 
+ D 19 
+
+",3
+"Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",3
+"A carpenter measured the lengths, in inches, of some pieces of wood. The lengths are shown in this line plot. 
+Wood Pieces y2019_grade4_q8_img_1.png 
+The carpenter collected all the pieces of wood with a length of $$ 9 \frac{3}{8} $$ inches. Then he placed those pieces end to end in a straight line. 
+What is the total length of the pieces of wood the carpenter placed in a straight line? 
+ A $$ 17 \frac{1}{8} $$ inches 
+ B $$ 18 \frac{1}{8} $$ inches 
+ C $$ 27 \frac{1}{8} $$ inches 
+ D $$ 28 \frac{1}{8} $$ inches 
+
+",1
+"A barber recorded the number of customers whose hair he cut each day last week. 
+Which of the following measures best describes the spread of the barber’s data? 
+ A mean 
+ B mode 
+ C range 
+ D median 
+
+",3
+"What is the value of this expression? 
+$$ 6 \times 4 − \left( 5 + 3 \right) \div 2 $$ 
+ A 0 
+ B 8 
+ C 11 
+ D 20 
+
+",2
+"Diane has the four number cards shown below. 
+y2015_grade4_q3_img_1.png 
+Diane used two of her cards to make a two-digit number that is a multiple of 4. What could be the number Diane made? 
+",1
+"This question has four parts. Be sure to label each part of your response. 
+A toy company produces wooden blocks. Each block is in the shape of a cube with an edge length of 2 inches (in.), as shown in this diagram. 
+y2023_grade5_q5_img_1.png 
+A. {'element_type': 'text-plain', 'element_value': 'What is the volume, in cubic inches, of each block? Show or explain how you got your answer.'} 
+B. [{'element_id': 'B_1', 'element_type': 'text-plain', 'element_value': 'The toy company packs the blocks in cartons. Each carton is in the shape of a right rectangular prism and is completely filled, with no gaps or overlaps.'}, {'element_id': 'B_2', 'element_type': 'text-plain', 'element_list': [{'element_id': 'B_2_1', 'element_type': 'number+text', 'element_value': 'The carton has a base area of 240 square inches.'}, {'element_id': 'B_2_2', 'element_type': 'number+text', 'element_value': 'The carton has a height of 12 inches.'}]}, {'element_id': 'B_3', 'element_type': 'text-plain', 'element_value': 'What is the volume, in cubic inches, of the carton? Show or explain how you got your answer.'}] 
+C. {'element_type': 'text-plain', 'element_value': 'What is the greatest number of blocks that can fit in one carton, with no gaps or overlaps? Show or explain how you got your answer.'} 
+D. [{'element_id': 'D_1', 'element_type': 'number+text', 'element_value': 'The toy company plans to start making a larger carton that holds exactly 1,000 blocks, with no gaps or overlaps.'}, {'element_id': 'D_2', 'element_type': 'text-plain', 'element_value': 'What could be the measurements, in inches, of the larger carton’s length, width, and height? Show or explain how you got your answers.'}] 
+",2
+"Point V is labeled on this number line. 
+y2019_grade3_q11_img_1.png 
+Which fraction shows where point V is on the number line? 
+ A $$ \frac{8}{8} $$ 
+ B $$ \frac{7}{8} $$ 
+ C $$ \frac{2}{8} $$ 
+ D $$ \frac{1}{8} $$ 
+
+",0
+"A student will shade $$ \frac{1}{8} $$ of this figure. 
+y2022_grade3_q9_img_1.png 
+Which of these models have a shaded part that is $$ \frac{1}{8} $$ the area of the whole figure? 
+Select the two correct answers. 
+ A y2022_grade3_q9_img_2.png 
+ B y2022_grade3_q9_img_3.png 
+ C y2022_grade3_q9_img_4.png 
+ D y2022_grade3_q9_img_5.png 
+ E y2022_grade3_q9_img_6.png 
+ F y2022_grade3_q9_img_7.png 
+
+",0
+"A sign is in the shape of a square. Each side of the sign has a length of 6 inches. 
+What is the area of the sign? 
+ A 12 square inches 
+ B 24 square inches 
+ C 36 square inches 
+ D 48 square inches 
+
+",1
+"The expressions in the table below show the amount of money, in dollars, that Natalie and Drew each earned babysitting last week. 
+Earnings from Babysitting y2016_grade5_q21_img_1.png 
+Based on the expressions in the table, which of the following statements is true? 
+ A Drew earned $4 less than Natalie. 
+ B Natalie earned $8 more than Drew. 
+ C Natalie earned 12 times as much as Drew. 
+ D Drew earned 4 times as much as Natalie. 
+
+",2
+"A number written in expanded form is shown. 
+$$  $$ 
+Which of the following numbers in word form is equivalent to the number in expanded form? 
+ A two hundred five and seven hundredths 
+ B two hundred fifty and seven hundredths 
+ C two hundred five and seventeen hundredths 
+ D two hundred fifty and seventeen hundredths 
+
+",2
+"What is the value of this expression when $$ b = 4 $$? 
+$$ 15 − 3 \left( b \right) $$ 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2023_grade6_q4_img_1.png 
+",3
+"Jean needs $$2\frac{1}{2}$$ cups of flour to make sugar cookies and $$3\frac{1}{4}$$ cups of flour to make peanut butter cookies. 
+What is the total number of cups of flour that Jean will need to make both kinds of cookies? 
+ A $$5\frac{2}{6}$$ 
+ B $$5\frac{3}{4}$$ 
+ C $$6\frac{2}{6}$$ 
+ D $$6\frac{3}{4}$$ 
+
+",2
+"A teacher wrote this number on the board. 
+24,473 
+The value of the digit in the thousands place is how many times the value of the digit in the hundreds place? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2019_grade4_q11_img_1.png 
+",1
+"Deron bought some packs of baseball cards. Each pack had 5 baseball cards. He bought 30 baseball cards in all. 
+What is the total number of packs of baseball cards Deron bought? 
+ A 8 
+ B 7 
+ C 6 
+ D 5 
+
+",0
+"Find the quotient. 
+$$ 7.5 \div 10^2 $$ 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2019_grade5_q7_img_1.png 
+",2
+"Jessica is thinking of a number. She listed some of the factors of her number in the box shown below. 
+2, 3, 4, 6 
+Which of the following could be Jessica’s number? 
+ A 12 
+ B 14 
+ C 16 
+ D 18 
+
+",1
+"A rectangle has a width of 5 inches and a length of 4 inches. 
+Which of these equations shows the perimeter, in inches, of the rectangle? 
+ A $$ 5 + 4 = 9 $$ 
+ B $$ 5 \times 4 = 20 $$ 
+ C $$ 2 + 5 \times 2 + 4 = 16 $$ 
+ D $$ 2 \times 5 + 2 \times 4 = 18 $$ 
+
+",1
+"At a middle school, the sixth-grade students and seventh-grade students collected cans for recycling. 
+ 2_1 Of the 2000 cans the sixth-grade students collected, $$ 65 \% $$ were soda cans. 
+ 2_2 Of the 1500 cans the seventh-grade students collected, $$ 80 \% $$ were soda cans. 
+
+Which of the following statements about the numbers of soda cans the students collected are true? 
+Select the two correct answers. 
+ A The sixth-grade students collected 1200 soda cans. 
+ B The sixth-grade students collected 1875 soda cans. 
+ C The sixth-grade students collected 1300 soda cans. 
+ D The seventh-grade students collected 1200 soda cans. 
+ E The seventh-grade students collected 1875 soda cans. 
+ F The seventh-grade students collected 1300 soda cans. 
+
+",3
+"Which of the following values belong in the $$ \boxed{?} $$ to make this statement true? 
+$$ 11 \times \frac{ \boxed{?} }{5} $$ is greater than 11. 
+Select the three correct answers. 
+ A 3 
+ B 7 
+ C 8 
+ D 4 
+ E 6 
+ F 5 
+
+",2
+"Janette had 32 pencils to share with 4 friends. She gave each friend the same number of pencils. 
+What is the total number of pencils Janette gave each friend? 
+ A 36 
+ B 28 
+ C 8 
+ D 7 
+
+",0
+"Which of the following statements best describes the solution of this inequality? 
+$$ x < 9 $$ 
+ A There is no solution. 
+ B There is exactly one solution. 
+ C There are exactly eight solutions. 
+ D There are infinitely many solutions. 
+
+",3
+"A model of 1 whole is shown. 
+y2021_grade4_q17_img_1.png 
+Based on the model, which of these models is shaded to represent a fraction that is equivalent to $$ 1 \frac{2}{3} $$ ? 
+ A y2021_grade4_q17_img_2.png 
+ B y2021_grade4_q17_img_3.png 
+ C y2021_grade4_q17_img_4.png 
+ D y2021_grade4_q17_img_5.png 
+
+",1
+"Each meal at a school cafeteria is served with 2 portions of vegetables. What is the ratio of meals served to portions of vegetables served at the school cafeteria? 
+ A 1 : 2 
+ B 1 : 3 
+ C 2 : 1 
+ D 3 : 1 
+
+",3
+"What is the missing number that makes this number sentence true? 
+$$ 5 + 11 + 2 = \boxed{?} + 5 + 2 $$ 
+ A 2 
+ B 7 
+ C 11 
+ D 18 
+
+",0
+"Which of these number lines shows a point that represents the location of $$ \frac{10}{6} $$ ? 
+ A y2021_grade3_q15_img_1.png 
+ B y2021_grade3_q15_img_2.png 
+ C y2021_grade3_q15_img_3.png 
+ D y2021_grade3_q15_img_4.png 
+
+",0
+"Leigh wants to find the number of ounces of pretzels in a 4-pound container. She knows the ratio of ounces to pounds is 16 : 1. 
+Which of the following equations can Leigh use to find x, the number of ounces of pretzels in the 4-pound container? 
+ A $$\frac{x ounces}{4 pounds} = \frac{16 ounces}{1 pound}$$ 
+ B $$\frac{x ounces}{4 pounds} = \frac{1 pound}{16 ounces}$$ 
+ C $$\frac{4 ounces}{x ounces} = \frac{16 pounds}{1 pound}$$ 
+ D $$\frac{4 pounds}{x ounces} = \frac{16 pounds}{1 ounce}$$ 
+
+",3
+"A student folded 2 sheets of paper along dotted lines, as shown. 
+y2021_grade3_q12_img_1.png 
+Which of these fractions also shows how many sheets of paper the student folded? 
+ A $$ \frac{16}{8} $$ 
+ B $$ \frac{16}{2} $$ 
+ C $$ \frac{8}{8} $$ 
+ D $$ \frac{8}{2} $$ 
+
+",0
+"Jasmine is solving this equation. 
+$$ \frac{x}{4} = 9 $$ 
+What value of $$x$$ makes Jasmine’s equation true? 
+ A 5 
+ B 9 
+ C 13 
+ D 36 
+
+",3
+"This question has two parts. 
+A student wrote some expressions using the numbers 3, 7, and 12. 
+Part A 
+The student wrote the word expression shown in this box. 
+$$ \boxed{ \space 7 times the difference of 12 and 3 \space } $$ 
+Which of the following numerical expressions is equivalent to the student’s word expression? 
+ A $$ 7 \times 12 − 3 $$ 
+ B $$ 12 − 3 \times 7 $$ 
+ C $$ \left( 7 \times 12 \right) − 3 $$ 
+ D $$ \left( 12 − 3 \right) \times 7 $$ 
+
+Part B 
+The student wrote this numerical expression. 
+$$ \left( 12 + 7 \right) \div 3 $$ 
+Which of the following word expressions is equivalent to the student’s numerical expression? 
+ A $$ \frac{1}{3} $$ the sum of 12 and 7 
+ B 3 divided by the sum of 12 and 7 
+ C $$ \frac{1}{3} $$ divided by the sum of 12 and 7 
+ D 12 added to the quotient of 7 and 3 
+
+",2
+"Vivienne bought 6 packages of cheese for a party. Each package of cheese weighs 8 ounces. 
+What is the total weight, in pounds, of the cheese Vivienne bought for the party? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2023_grade5_q16_img_1.png 
+",2
+"A teenager is saving money to buy a snowboard. 
+ 2_1 The snowboard costs $132, including sales tax. 
+ 2_2 The teenager has already saved $23. 
+
+Which of the following equations could be used to find m, the remaining amount of money, in dollars, the teenager must save to buy the snowboard? 
+ A $$ \frac{m}{23} = 132 $$ 
+ B $$ 23m = 132 $$ 
+ C $$ m - 23 = 132 $$ 
+ D $$ m + 23 = 132 $$ 
+
+",3
+"Which of these shapes has the same number of angles as a rhombus? 
+ A triangle 
+ B hexagon 
+ C pentagon 
+ D rectangle 
+
+",0
+" 
+84, 76, 68, 60, $$ \underline{ \space ? \space } $$ 
+What is the next number in the pattern? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+y2022_grade3_q11_img_1.png 
+",0
+"Brittany collected 351 box tops. Emily collected 198 box tops. 
+How many more box tops did Brittany collect than Emily? 
+ A 153 
+ B 247 
+ C 263 
+ D 549 
+
+",0
+"Sonya is thinking of a number. She wrote multiples of her number in a box, as shown. 
+y2019_grade4_q1_img_1.png 
+Which of the following could be Sonya’s number? 
+ A 3 
+ B 4 
+ C 6 
+ D 8 
+
+",1
+"What value of p makes this equation true? 
+$$ 3,032 \div p = 8 $$ 
+ A 354 
+ B 375 
+ C 379 
+ D 382 
+
+",1
+"Point G is shown on this number line. 
+y2023_grade3_q19_img_1.png 
+Which of these fractions describes the location of point G on the number line? 
+ A $$ \frac{1}{4} $$ 
+ B $$ \frac{5}{4} $$ 
+ C $$ \frac{1}{8} $$ 
+ D $$ \frac{5}{8} $$ 
+
+",0
+"A dashed line is drawn on this figure. 
+y2019_grade4_q13_img_1.png 
+Which of these sentences are true? 
+Select the two correct answers. 
+ A The dashed line is a line of symmetry for the figure. 
+ B The dashed line is not a line of symmetry for the figure. 
+ C The figure has a total of 0 lines of symmetry. 
+ D The figure has a total of 2 lines of symmetry. 
+ E The figure has a total of 4 lines of symmetry. 
+
+",1
+"Which of the following figures has a volume greater than 15 cubic centimeters? 
+y2023_grade5_q18_img_1.png 
+ A y2023_grade5_q18_img_2.png 
+ B y2023_grade5_q18_img_3.png 
+ C y2023_grade5_q18_img_4.png 
+ D y2023_grade5_q18_img_5.png 
+
+",2
+"A pumpkin patch has a width of 432 inches. What is the width of the pumpkin patch in yards? 
+Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles. 
+",3
+"Which of these shows only multiples of the number 7? 
+ A 1, 7, 14, 21 
+ B 7, 17, 27, 37 
+ C 7, 14, 21, 28 
+ D 14, 21, 28, 36 
+
+",1
+"This question has four parts. Be sure to label each part of your response. 
+Four friends live in different towns. They each placed a bucket outside to collect rainwater on the same night. The four buckets were labeled A, B, C, and D. 
+A. [{'element_id': 'A_1', 'element_type': 'text-plain', 'element_value': 'Bucket A and Bucket B are the same size. This diagram shows the fraction of each bucket that was filled with rainwater.'}, {'element_id': 'A_2', 'element_type': 'image-picture', 'image_caption': 'Bucket A', 'image_filename': 'y2023_grade4_q4_img_1.png'}, {'element_id': 'A_3', 'element_type': 'image-picture', 'image_caption': 'Bucket B', 'image_filename': 'y2023_grade4_q4_img_2.png'}, {'element_id': 'A_4', 'element_type': 'text-plain', 'element_value': 'Write a number sentence using >, <, or = to compare the fraction of Bucket A that was filled to the fraction of Bucket B that was filled. Show or explain how you got your answer.'}] 
+B. [{'element_id': 'B_1', 'element_type': 'text-plain', 'element_value': 'Bucket C and Bucket D are the same size. This diagram shows the fraction of each bucket that was filled with rainwater.'}, {'element_id': 'B_2', 'element_type': 'image-picture', 'image_caption': 'Bucket C', 'image_filename': 'y2023_grade4_q4_img_3.png'}, {'element_id': 'B_3', 'element_type': 'image-picture', 'image_caption': 'Bucket D', 'image_filename': 'y2023_grade4_q4_img_4.png'}, {'element_id': 'B_4', 'element_type': 'text-plain', 'element_value': 'Which bucket, Bucket C or Bucket D, was filled with more rainwater? Explain how you got your answer.'}] 
+C. [{'element_id': 'C_1', 'element_type': 'text-plain', 'element_value': 'This diagram shows all of the friends’ buckets and the fraction of each bucket that was filled with rainwater.'}, {'element_id': 'C_2', 'element_type': 'image-picture', 'image_caption': 'Bucket A', 'image_filename': 'y2023_grade4_q4_img_5.png'}, {'element_id': 'C_3', 'element_type': 'image-picture', 'image_caption': 'Bucket B', 'image_filename': 'y2023_grade4_q4_img_6.png'}, {'element_id': 'C_4', 'element_type': 'image-picture', 'image_caption': 'Bucket C', 'image_filename': 'y2023_grade4_q4_img_7.png'}, {'element_id': 'C_5', 'element_type': 'image-picture', 'image_caption': 'Bucket D', 'image_filename': 'y2023_grade4_q4_img_8.png'}, {'element_id': 'C_6', 'element_type': 'text+math_expression', 'element_value': 'One of the friends says that Bucket B and Bucket C were filled with the same amount of rainwater since $$ \\frac{5}{6} $$ of each bucket was filled with rainwater.'}, {'element_id': 'C_7', 'element_type': 'text-plain', 'element_value': 'Is the friend correct? Explain your reasoning.'}] 
+D. [{'element_id': 'D_1', 'element_type': 'text-plain', 'element_value': 'A weatherman in another town says that his town received less than $$ \\frac{1}{2} $$ inch of rainwater.'}, {'element_id': 'D_2', 'element_type': 'text-plain', 'element_value': 'Write a fraction that represents the amount of rainwater, in inches, this town could have received. Explain how you know your answer is correct.'}] 
+",1
+"This question has two parts. 
+A teacher is using multiplication to compare numbers. 
+Part A 
+The teacher says that 14 is 7 times as many as 2. 
+Which multiplication equation shows the teacher’s comparison? 
+ A $$ 14 = 7 \times 2 $$ 
+ B $$ 7 = 14 \times 2 $$ 
+ C $$ 2 = 7 \times 14 $$ 
+ D $$ 2 = 14 \times 7 $$ 
+
+Part B 
+The teacher uses a comparison to describe this equation. 
+$$ 30 = 6 \times 5 $$ 
+Which of these could be the comparison the teacher used? 
+ A The number 5 is 6 times as many as the number 30. 
+ B The number 6 is 6 times as many as the number 30 
+ C The number 30 is 6 times as many as the number 5. 
+ D The number 30 is 6 times as many as the number 6. 
+
+",1
+Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours. How much money did Dave make in those two days?,0
+"Which of the following shows the measurements ordered from least to greatest length? 
+ A y2022_grade5_q16_img_1.png 
+ B y2022_grade5_q16_img_2.png 
+ C y2022_grade5_q16_img_3.png 
+ D y2022_grade5_q16_img_4.png 
+
+",2
+"This drawing shows how a builder used both carpet and tile to cover the floor of a room with no gaps or overlaps. 
+y2023_grade3_q13_img_1.png 
+Which expression can be used to find the total area, in square meters, of the floor of the room? 
+ A $$ \left( 2 + 7 \right) \times \left( 3 + 7 \right) $$ 
+ B $$ \left( 4 \times 3 \right) + \left( 3 \times 2 \right) $$ 
+ C $$ \left( 5 \times 2 \right) \times \left( 2 \times 3 \right) $$ 
+ D $$ \left( 3 \times 7 \right) + \left( 2 \times 7 \right) $$ 
+
+",0
+"This question has two parts. 
+On field day, a student recorded his finish times for three different races. He also recorded the distances of four of his softball throws. 
+Part A 
+The student’s finish times for the three races are shown. 
+ 2_1 3 minutes 
+ 2_2 4 minutes, 39 seconds 
+ 2_3 10 minutes, 17 seconds 
+
+Which table shows the student’s finish times, in seconds, for the three races? 
+ A Finish Times y2022_grade4_q11_img_1.png 
+ B Finish Times y2022_grade4_q11_img_2.png 
+ C Finish Times y2022_grade4_q11_img_3.png 
+ D Finish Times y2022_grade4_q11_img_4.png 
+
+Part B 
+The distances of the student’s four softball throws were recorded using different units of measurement, as shown. 
+y2022_grade4_q11_img_5.png 
+Which of these shows the distances of the softball throws in the correct order from least to greatest? 
+ A y2022_grade4_q11_img_6.png 
+ B y2022_grade4_q11_img_7.png 
+ C y2022_grade4_q11_img_8.png 
+ D y2022_grade4_q11_img_9.png 
+
+",1
+"The location of point T is shown on the coordinate grid below. 
+y2015_grade6_q16_img_1.png 
+Point S is located 5 units to the right of point T. What are the coordinates of point S? 
+",3
+"Eric divided the sum of 5 and 7 by 6. Which of the following is another way to express Eric’s calculations? 
+ A $$\left( 7 \times 6 \right) \div 5$$ 
+ B $$5 \div \left( 7 \times 6 \right)$$ 
+ C $$\left( 7 + 5 \right) \div 6$$ 
+ D $$6 \div \left( 7 + 5 \right)$$ 
+
+",2
+"This question has four parts. Be sure to label each part of your response. 
+On Monday, there were 18 chickens and 12 sheep in a field. There were no other animals in the field. 
+A. {'element_type': 'text-plain', 'element_value': 'What was the ratio of chickens to sheep in the field on Monday?'} 
+B. {'element_type': 'number+text', 'element_value': 'For every 2 sheep in the field on Monday, how many chickens were in the field? Show or explain how you got your answer.'} 
+C. {'element_type': 'text+math_expression', 'element_value': 'The ratio $$ 3:5 $$ can also be used to describe a relationship between the animals in the field on Monday. What relationship could this ratio describe? Show or explain how you got your answer.'} 
+D. {'element_type': 'number+text', 'element_value': 'On Tuesday, there were 4 more sheep in the field. Write a ratio to show the relationship between the number of sheep and the total number of animals in the field on Tuesday. Show or explain how you got your answer.'} 
+",3
+"Which of the following shapes has exactly two lines of symmetry? 
+ A y2016_grade4_q6_img_1.png 
+ B y2016_grade4_q6_img_2.png 
+ C y2016_grade4_q6_img_3.png 
+ D y2016_grade4_q6_img_4.png 
+
+",1
