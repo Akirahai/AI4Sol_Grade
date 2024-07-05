@@ -84,7 +84,7 @@ if __name__== "__main__":
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
         
         def preprocess_function(examples):
-            return tokenizer(examples["Question"], truncation=True)   
+            return tokenizer(examples["Question"], truncation=True, max_length=512, padding="max_length")   
         
         
         print(f"Training and evaluating for seed: {seed}")
