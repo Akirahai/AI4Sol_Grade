@@ -159,8 +159,6 @@ if __name__== "__main__":
 
             # Create the confusion matrix save path
             cm_save_path = os.path.join(args.path, f"{relevant_part}_confusion_matrix_seed_{seed}.png")
-
-            cm_save_path = os.path.join(args.path, f"{args.model}_confusion_matrix_seed_{seed}.png")
             save_confusion_matrix(transformed_labels, transformed_predictions, list(id2label.values()), cm_save_path)
             print(f"Confusion matrix saved to {cm_save_path}")
     
