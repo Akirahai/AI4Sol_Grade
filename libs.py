@@ -1,15 +1,17 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import itertools
+import seaborn as sns
 import torch
 import torch.nn as nn
-import seaborn as sns
+
 
 from datasets import load_dataset, Dataset
 from datasets import DatasetDict
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, GenerationConfig, TrainingArguments, Trainer, AutoModelForSequenceClassification
 from transformers import DataCollatorWithPadding
-
+from sklearn.metrics import confusion_matrix, classification_report
 
 import evaluate
 import argparse
@@ -75,3 +77,35 @@ def print_number_of_trainable_model_parameters(model):
         if param.requires_grad:
             trainable_model_params += param.numel()
     return f"trainable model parameters: {trainable_model_params}\nall model parameters: {all_model_params}\npercentage of trainable model parameters: {100 * trainable_model_params / all_model_params:.2f}%"
+
+
+def print_confusion_matrix(y_true, y_pred, labels):
+    cm = confusion_matrix(y_true, y_pred, labels=labels)
+    print("Confusion Matrix:")
+    print(cm)
+    print("Classification Report:")
+    print(classification_report(y_true, y_pred, target_names=[str(label) for label in labels]))
+    
+    
+def save_confusion_matrix(y_true, y_pred, labels, save_path):
+    cm = confusion_matrix(y_true, y_pred, labels=labels)
+    plt.figure(figsize=(10, 7))
+    plt.imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
+    plt.title('Confusion Matrix')
+    plt.colorbar()
+    tick_marks = np.arange(len(labels))
+    plt.xticks(tick_marks, labels, rotation=45)
+    plt.yticks(tick_marks, labels)
+
+    fmt = 'd'
+    thresh = cm.max() / 2.
+    for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+        plt.text(j, i, format(cm[i, j], fmt),
+                 horizontalalignment="center",
+                 color="white" if cm[i, j] > thresh else "black")
+
+    plt.ylabel('True label')
+    plt.xlabel('Predicted label')
+    plt.tight_layout()
+    plt.savefig(save_path)
+    plt.close()

@@ -108,6 +108,7 @@ if __name__== "__main__":
         per_device_eval_batch_size=args.batch_size,
         num_train_epochs=args.epochs,
         weight_decay=0.01,
+        gradient_accumulation_steps=4,
         )
 
         trainer = Trainer(
@@ -139,17 +140,20 @@ if __name__== "__main__":
             eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_test)
             print(eval_results)
 
-        elif args.phase == 'test':   
-            # if args.eval == 'test':
-            #     print("Evaluation on test set...")
-            #     eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_test)
-            #     print(eval_results)
-                
-            # elif args.eval == 'train':
-            #     print("Evaluation on train set...")
-            #     eval_results = trainer.evaluate(eval_dataset=tokenized_dataset_train)
-            #     print(eval_results)
-            pass
+        elif args.phase == 'test':
+            
+
+            print(f"Evaluation on test set for seed {seed}...")
+            predictions, labels, _ = trainer.predict(tokenized_dataset_test)
+            predictions = np.argmax(predictions, axis=1)
+            
+            # Transform labels back
+            transformed_predictions = [id2label[pred] for pred in predictions]
+            transformed_labels = [id2label[label] for label in labels]
+
+            cm_save_path = os.path.join(args.path, f"{args.model}_confusion_matrix_seed_{seed}.png")
+            save_confusion_matrix(transformed_labels, transformed_predictions, list(id2label.values()), cm_save_path)
+            print(f"Confusion matrix saved to {cm_save_path}")
     
     
         print(f"Evaluation on train set for seed {seed}...")

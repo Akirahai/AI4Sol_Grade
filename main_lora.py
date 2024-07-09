@@ -47,6 +47,7 @@ if __name__== "__main__":
         # Load model
         model_name=args.model
         tokenizer = AutoTokenizer.from_pretrained(model_name)
+        
         if args.model in ['meta-llama/Llama-2-7b-hf', 'meta-llama/Meta-Llama-3-8B-Instruct']:
             tokenizer.add_special_tokens({'pad_token': '[PAD]'})
         
@@ -111,6 +112,7 @@ if __name__== "__main__":
         
         if args.phase == 'train':
             trainer.train()
+    
             
             current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
             
