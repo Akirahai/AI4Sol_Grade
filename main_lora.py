@@ -20,6 +20,7 @@ def parse_args():
     parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/result") #Fix to your path to save model
     parser.add_argument('--gpu', type=int, default=1, help='GPU device')
     parser.add_argument('--eval', type=str, default='test', help='Evaluation on test or valid set')
+    parser.add_argument('--target_moduels', type=list, default='o_proj,qkv_proj', help='Target modules for Lora')
     
     
     
@@ -46,7 +47,8 @@ if __name__== "__main__":
         # Load model
         model_name=args.model
         tokenizer = AutoTokenizer.from_pretrained(model_name)
-        # tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+        if args.model in ['meta-llama/Llama-2-7b-hf', 'meta-llama/Meta-Llama-3-8B-Instruct']:
+            tokenizer.add_special_tokens({'pad_token': '[PAD]'})
         
         model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=4)
         model.resize_token_embeddings(len(tokenizer))
@@ -57,7 +59,7 @@ if __name__== "__main__":
         
         
         lora_config = LoraConfig(
-        r=32, # Rank
+        r=1, # Rank
         lora_alpha=32,
         lora_dropout=0.05,
         bias="none",
