@@ -145,6 +145,9 @@ if __name__== "__main__":
 
             print(f"Evaluation on test set for seed {seed}...")
             predictions, labels, _ = trainer.predict(tokenized_dataset_test)
+            if isinstance(predictions, tuple):
+                predictions = predictions[0]  # Assuming the first element contains the logits
+            predictions = np.array(predictions)
             predictions = np.argmax(predictions, axis=1)
             
             # Transform labels back
