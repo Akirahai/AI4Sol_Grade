@@ -153,6 +153,12 @@ if __name__== "__main__":
             # Transform labels back
             transformed_predictions = [id2label[pred] for pred in predictions]
             transformed_labels = [id2label[label] for label in labels]
+            
+            model_parts = args.model.split('/')
+            relevant_part = f"{model_parts[-2]}_{model_parts[-1]}"
+
+            # Create the confusion matrix save path
+            cm_save_path = os.path.join(args.path, f"{relevant_part}_confusion_matrix_seed_{seed}.png")
 
             cm_save_path = os.path.join(args.path, f"{args.model}_confusion_matrix_seed_{seed}.png")
             save_confusion_matrix(transformed_labels, transformed_predictions, list(id2label.values()), cm_save_path)
