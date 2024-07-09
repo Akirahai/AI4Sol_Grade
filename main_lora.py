@@ -61,7 +61,7 @@ if __name__== "__main__":
         lora_alpha=32,
         lora_dropout=0.05,
         bias="none",
-        # target_modules=["o_proj", "qkv_proj"],
+        target_modules=["o_proj", "qkv_proj"],
         task_type=TaskType.SEQ_CLS
         )
         
