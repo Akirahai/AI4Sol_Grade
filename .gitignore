@@ -1,3 +1,3 @@
-/result/distilbert
+/result/*
 __pycache__/
 /utils/__pycache__/
