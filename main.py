@@ -128,7 +128,6 @@ if __name__== "__main__":
             tokenizer=tokenizer,
             data_collator=data_collator,
             compute_metrics=compute_metrics,
-            max_seq_length=128
         )
 
         if args.phase == 'train':
@@ -192,3 +191,4 @@ if __name__== "__main__":
     results.append(["Average", train_acc/seed_num, test_acc/seed_num])
     table = tabulate(results, headers=["Seed", "Train_Accuracy", "Test_Accuracy"], tablefmt="pipe")
     print(table)
+    pyperclip.copy(table)

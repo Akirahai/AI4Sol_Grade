@@ -5,7 +5,7 @@ import itertools
 import seaborn as sns
 import torch
 import torch.nn as nn
-
+from trl import SFTTrainer
 
 from datasets import load_dataset, Dataset
 from datasets import DatasetDict

@@ -13,3 +13,8 @@ scikit-learn
 accelerate
 peft
 # flash-attn
+
+huggingface_hub
+bitsandbytes
+trl
+xformers
