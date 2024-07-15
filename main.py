@@ -20,7 +20,9 @@ def parse_args():
     parser.add_argument('--model', type=str, help='Model name or path')
     parser.add_argument('--path', type=str, default= f"/home/leviethai/AI4Sol_Grade/result") #Fix to your path to save model
     parser.add_argument('--gpu', type=int, default=1, help='GPU device')
+    parser.add_argument('--MAX-SEQ-LENGTH', type=int, default=2048, help='Max sequence length')
     parser.add_argument('--weight-decay', type=float, default=0.01, help='Weight decay')
+    parser.add_argument('--gradient-accumulation-steps', type=int, default=1, help='Gradient accumulation steps')
     parser.add_argument('--eval', type=str, default='test', help='Evaluation on test or valid set')
     
     
@@ -34,8 +36,10 @@ if __name__== "__main__":
     args.best_metric = 0
     if args.use_gpu and torch.cuda.is_available():
         device = torch.device(f'cuda:{args.gpu}') # Change to your suitable GPU device
-        
-
+    if torch.cuda.is_bf16_supported():
+        compute_dtype = torch.bfloat16
+    else:
+        compute_dtype = torch.float16
 
     #Login
     if args.model in ['meta-llama/Llama-2-7b-hf', 'meta-llama/Meta-Llama-3-8B-Instruct']:
@@ -102,13 +106,18 @@ if __name__== "__main__":
     
         # Training setup
         training_args = TrainingArguments(
+        evaluation_strategy="steps",
         output_dir = args.path,
         learning_rate = args.lr,
         per_device_train_batch_size=args.batch_size,
         per_device_eval_batch_size=args.batch_size,
         num_train_epochs=args.epochs,
         weight_decay=0.01,
-        gradient_accumulation_steps=4,
+        gradient_accumulation_steps=args.gradient_accumulation_steps,
+        fp16 = not torch.cuda.is_bf16_supported(),
+        bf16 = torch.cuda.is_bf16_supported(),
+        optim="paged_adamw_32bit",
+        lr_scheduler_type="linear"
         )
 
         trainer = Trainer(
@@ -119,6 +128,7 @@ if __name__== "__main__":
             tokenizer=tokenizer,
             data_collator=data_collator,
             compute_metrics=compute_metrics,
+            max_seq_length=128
         )
 
         if args.phase == 'train':
