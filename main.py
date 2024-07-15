@@ -192,4 +192,3 @@ if __name__== "__main__":
     results.append(["Average", train_acc/seed_num, test_acc/seed_num])
     table = tabulate(results, headers=["Seed", "Train_Accuracy", "Test_Accuracy"], tablefmt="pipe")
     print(table)
-    pyperclip.copy(table)
